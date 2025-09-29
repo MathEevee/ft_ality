@@ -1,0 +1,1286 @@
+Blade Swipe (Baraka);Left,[FP]
+Cross Swipe (Baraka);Left,[BP]
+Gut Strike (Baraka);Right,[BP]
+Foot Stomp (Baraka);Left,[FK]
+Hop Kick (Baraka);Up,[FK]
+Quick Knee (Baraka);Right,[BK]
+Big Legs (Baraka);Up,[BK]
+Sweep (Baraka);Left,[BK]
+Blade Uppercut (Baraka);Down,[BP]
+Tarkatan Rush (Baraka);[FP],[BP],[FP]
+Painful Swipes (Baraka);[FP],[BP],[BP]
+Tricky Fury (Baraka);[FP],[BP],Left,[FK]
+Cut 'Em Loose (Baraka);Left,[FP],[FP]
+Splinter (Baraka);Left,[FP],Right,[BP]
+Cold Steel (Baraka);[BP],[FP],[BP]
+Tears of Pain (Baraka);[BP],[BP],[BP],[FP]
+Tarkatan Push (Baraka);Left,[BP],Right,[BP]
+Horror Show (Baraka);Right,[BP],[BK]
+Outworld Bash (Baraka);Right,[BP],[BP]
+Tarkatan Blows (Baraka);[FK],Left,[FK]
+Open Wound (Baraka);Left,[FK],[FP],Right,[FP]
+Easy Kill (Baraka);Left,[FK],[BP],[BP]
+Doom Kicks (Baraka);Right,[BK],[BK]
+Bloody Mess (Baraka);Left,[FK],[FP],Tag
+Skinned Alive (Baraka);[FP],[BP],Tag
+Killer Kuts (Baraka);[BP],[FP],Tag
+Have At It (Baraka);[BP],[BP],Tag
+Blade Charge (Baraka);Down,Right,[BP]
+Spark (Baraka);Down,Left,[BP]
+Chop Chop (Baraka);Left,Left,[FP]
+Blade Spin (Baraka);Down,Left,[FK]
+Slices (Baraka);Down,Right,[FP]
+Blade Rush (Baraka);Down,Right,[BP],Block
+Sparked (Baraka);Down,Left,[BP],Block
+Chopchop Shop (Baraka);Left,Left,[FP],Block
+Spinner (Baraka);Down,Left,[FK],Block
+Slicer (Baraka);Down,Right,[FP],Block
+Nail and Impale (Baraka);Flip Stance,Block
+Up the middle (Baraka);Left,Right,Down,Right,[FP]
+Take a Spin (Baraka);Right,Right,Down,Down,[FK]
+Stage Fatality (Baraka);Down,Down,Down,[FK]
+Babality (Baraka);Right,Left,Right,[BK]
+Yank (Cyrax);Left,[FP]
+Uppercut (Cyrax);Down,[BP]
+Blase Overhead (Cyrax);Left,[BP]
+Tooth and Nail (Cyrax);Right,[BP]
+Side Kick (Cyrax);Left,[FK]
+Hop Kick (Cyrax);Up,[BK]
+Sweep (Cyrax);Left,[BK]
+See Saw (Cyrax);[FP],[FP],[FP]
+Steel Fists (Cyrax);[FP],[BP],[FP]
+Power Plant (Cyrax);[FP],[BP],[FK]
+Mustard (Cyrax);[BP],[FP],[BP]
+Saw Enough (Cyrax);[BP],[BP],Right,[FP]
+Kombat boots (Cyrax);[FK],[FK],[BK]
+Cyber Beatdown (Cyrax);Left,[FP],[BP],[FP],[BP]
+Automation (Cyrax);Left,[BP],Tag
+Number Cruncher (Cyrax);Left,[FP],Tag
+High Tech (Cyrax);[FP],[BP],Tag
+Short circuit (Cyrax);[BP],[FP],Tag
+Close (Cyrax);Left,Left,[BK]
+Medium (Cyrax);Right,Right,[BK]
+Far (Cyrax);Left,Left,Right,[BK]
+Net (Cyrax);Left,Left,[FK]
+Teleport (Cyrax);Down,Left,[FP]
+Buzzsaw (Cyrax);Left,Right,[BP]
+Reverse Kick (Cyrax);Down,Right,[FK]
+Ragdoll (Cyrax);Down,Right,[FK],Throw
+Anti-Air (Cyrax);Down,Right,[BP]
+Sticky Bomb (Cyrax);Left,Left,[BK],Block
+Electro Net (Cyrax);Left,Left,[FK],Block
+Bangport (Cyrax);Down,Left,[FP],Block
+Saw Blade (Cyrax);Left,Right,[BP],Block
+Donkey Kick (Cyrax);Down,Right,[FK],Block
+Ragdolls (Cyrax);Down,Right,[FK],Block,Throw
+Power Anti-Air (Cyrax);Down,Right,[BP],Block
+Cyberdriver (Cyrax);Flip Stance,Block
+Buzz Kill (Cyrax);Right,Down,Right,Left,[BP]
+Nothing But Net (Cyrax);Left,Down,Left,Right,[FP]
+Stage Fatality (Cyrax);Down,Up,Block
+Babality (Cyrax);Down,Right,Left,[BP]
+Left Fist (Ermac);Right,[FP]
+Uppercut (Ermac);Down,[BP]
+Wind Strikes (Ermac);Left,[FP]
+Fist Smash (Ermac);Right,[BP]
+Psychic Palm (Ermac);Left,[BP]
+Quick Kick (Ermac);Left,[FK]
+[BP]-hit Kick (Ermac);Right,[BK]
+Low Leg (Ermac);Up,[BK]
+Sweep (Ermac);Left,[BK]
+Ermac Rush (Ermac);[FP],[BP],[FP]
+Mysterious Rush (Ermac);Right,[FP],[FP],[BK]
+Fusion (Ermac);Left,[FP],[FP],[BK]
+We Win (Ermac);Left,[FP],[BP],Right,[FP]
+Nether Pain (Ermac);[BP],[BP]
+Psychic Strikes (Ermac);Left,[BP],Left,[FP]
+Lost Souls (Ermac);Left,[BP],[FP],Right,[BP]
+Relinquish (Ermac);[FK],[FK]
+Surrender (Ermac);[FK],[FP],[BP]
+Disoriented (Ermac);Left,[FK],[BK]
+Controlled Chaos (Ermac);Right,[BK],Left,[BP]
+Breakdown (Ermac);Right,[BP],Tag
+Brain Freeze (Ermac);Left,[BP],Tag
+Mind-Clowing (Ermac);Left,[FP],[BP],Right,[FP],Tag
+Clear Your Mind (Ermac);Right,[FP],[FP],Tag
+Subconscious (Ermac);Left,[FP],[FP],Tag
+Lucidity (Ermac);[FK],[FP],Tag
+Force Ball (Ermac);Down,Left,[BP]
+Air Blast (Ermac);Down,Left,[BP]
+Force Port (Ermac);Down,Left,[BK]
+Force Lift (Ermac);Down,Left,[FP]
+Butt slam (Ermac);Down,Down,Up
+Force Push (Ermac);Left,Right,[FP]
+Focus Ball (Ermac);Down,Left,[BP],Block
+Force Blast (Ermac);Down,Left,[BP],Block
+Teleport (Ermac);Down,Left,[BK],Block
+Telelift (Ermac);Down,Left,[FP],Block
+Butt Smash (Ermac);Down,Up,[BK],Block
+Telepush (Ermac);Left,Right,[FP],Block
+Cannonball Slam (Ermac);Flip Stance,Block
+Mind Over Splatter (Ermac);Down,Up,Down,Down,Block
+Pest Control (Ermac);Right,Left,Right,Down,[BK]
+Stage Fatality (Ermac);Down,Up,Down,Down,[FK]
+Babality (Ermac);Down,Down,Left,Down,[BP]
+Cross Strike (Goro);Left,[FP]
+Upward Fist (Goro);Left,[BP]
+Low Kick (Goro);Left,[FK]
+Side Kick (Goro);Left,[BK]
+Shokan Strikes (Goro);[BP],[BP]
+Fireball (Goro);Down,Right,[FP]
+Stomp (Goro);Down,Left,[BK]
+Ground Pound (Goro);Down,Left,[FK]
+Taunt (Goro);Left,Right,[FK]
+Goro Grab (Goro);Down,Right,[BP]
+Arm Spin (Goro);Left,Right,[BK]
+Crusher (Goro);Flip Stance,Block
+Staff Strikes (Jade);Left,[FP]
+Rising Pole (Jade);Left,[BP]
+Upward Thrust (Jade);Right,[BP]
+Gut Kick (Jade);Left,[FK]
+Pole Vault (Jade);Up,[FK]
+Uppercut (Jade);Down,[BP]
+Sweep (Jade);Left,[BK]
+Pole Check (Jade);[FP],[BP],[BP]
+Jade Charge (Jade);Left,[FP],Right,[FP]
+Bad Girl (Jade);[BP],[FK],Right,[BP]
+Edenian Rush (Jade);Right,[BP],[FP],[BP]
+Betrayal (Jade);[FK],[BK],[BP]
+Assassin Strikes (Jade);Left,[FK],[BP]
+Polecat (Jade);[BK],Right,[FK]
+Untameable (Jade);Left,[BP],Tag
+Pole Pain (Jade);Up,[FK],Tag
+After You (Jade);[FP],[BP],Tag
+Likewise (Jade);[BP],[FK],Tag
+Edenian Tag (Jade);Right,[BP],[FP],Tag
+Distrust (Jade);[FK],[BK],Tag
+Boomerang (Jade);Down,Right,[FP]
+Boomerang Up (Jade);Down,Left,[FP]
+Boomerang Down (Jade);Down,Right,[FK]
+Shadow Kick (Jade);Down,Right,[BK]
+Shadow Flash (Jade);Left,Right,[FK]
+Staff Overhead (Jade);Down,Left,[BP]
+Staff Grab (Jade);Down,Right,[BP]
+Reboomerang (Jade);Down,Right,[FP],Block
+Reboomerang Up (Jade);Down,Left,[FP],Block
+Reboomerang Down (Jade);Down,Right,[FK],Block
+Eclipse Kick (Jade);Down,Right,[BK],Block
+Shadow Glow (Jade);Left,Right,[FK],Block
+Staff Smash (Jade);Down,Left,[BP],Block
+Staff Slam (Jade);Down,Right,[BP],Block
+Staff Buster (Jade);Flip Stance,Block
+Head-A-Rang (Jade);Up,Up,Down,Right,[FP]
+Half Mast (Jade);Left,Down,Left,Down,[BK]
+Stage Fatality (Jade);Left,Right,Down,Block
+Babality (Jade);Down,Down,Right,Down,[BK]
+Uppercut (Jax);Down,[BP]
+Hook Swipe (Jax);Left,[FP]
+Big Leg (Jax);Right,[FK]
+Shin Kick (Jax);Right,[BK]
+Sweep (Jax);Left,[BK]
+Triple Slam (Jax);Throw,[FP],[BK]
+Four slams (Jax);Throw,[FP],[BK],[BP],[FK]
+Five slams (Jax);Throw,[FP],[BK],[BP],[FK],[BP],[BK]
+Six slams (Jax);Throw,[FP],[BK],[BP],[FK],[BP],[BK],
+Major Force (Jax);[FP],[BP],[FK]
+Boot Kamp (Jax);Left,[FP],[BP],[BK]
+Active Duty (Jax);[BP],[FP]
+Fild Grade (Jax);[BP],[BP]
+Chain of Command (Jax);[BP],Right,[BP],Left,[FP]
+Advance Force (Jax);Right,[BK],[FP],[FK]
+Code of Conduct (Jax);Right,[BK],[FP],[BK]
+Majority Rules (Jax);Down,Left,[FK],Tag
+Outranked (Jax);Down,Left,[FK],Block,Tag
+Major Muscles (Jax);Left,[FP],[BP],Tag
+Alloyver You (Jax);[BP],Right,[BP],Tag
+Briggs' Da Noise (Jax);[BP],Right,[BP],Left,[FP],Tag
+Energy Wave (Jax);Down,Left,[BP]
+Dash Punch (Jax);Down,Right,[BP]
+Close (Jax);Down,Left,[FK]
+Medium (Jax);Down,Right,[FK]
+Far (Jax);Down,Left,Right,[FK]
+Gotcha Grab (Jax);Down,Right,[FP]
+Air Gotcha Grab (Jax);Down,Left,[FP]
+Overhead Smash (Jax);Down,Up,[BK]
+Left Breaker (Jax);Throw
+Assault Wave (Jax);Down,Left,[BP],Block
+Dash Fist (Jax);Down,Right,[BP],Block
+Ground Quake (Jax);Down,Left,[FK],Block
+Gotcha Beatdown (Jax);Down,Right,[FP],Block
+Air Gotcha Blast (Jax);Down,Left,[FP],Block
+Elite Smash (Jax);Down,Up,[BK],Block
+Briggs' Bash (Jax);Flip Stance,Block
+Smash and Grab (Jax);Left,Right,Right,Left,[BP]
+Three Points! (Jax);Right,Right,Left,Down,[FK]
+Stage Fatality (Jax);Down,Right,Down,[FP]
+Babality (Jax);Down,Down,Down,[FK]
+Uppercut (Johnny Cage);Down,[BP]
+Charge Palm (Johnny Cage);Left,[BP],[BP]
+Hit Elbow (Johnny Cage);Right,[BP]
+Pop Up (Johnny Cage);Left,[FK]
+Rising Knee (Johnny Cage);Right,[FK]
+Axe Kick (Johnny Cage);Right,[BK]
+Sweep (Johnny Cage);Left,[BK]
+Out Take (Johnny Cage);[BP],[BP],[BP]
+Show Time (Johnny Cage);[BP],[FP],Right,[FP]
+Stand In (Johnny Cage);[BP],[FP],[BK]
+Cross Cutting (Johnny Cage);[FP],[FK],[BK]
+Widescreen (Johnny Cage);[BP],[FP],Left,[BP]
+Director's Cut (Johnny Cage);[BP],[FP],Right,[BK]
+Take Two (Johnny Cage);Left,[FK],[BP]
+Money Shot (Johnny Cage);[BK],[BK]
+That's The Ticket (Johnny Cage);Left,[FK],[FK],Right,[FK]
+Cliffhanger (Johnny Cage);Left,[BP],Tag
+Fade Out (Johnny Cage);Right,[BK],Tag
+Bootleg (Johnny Cage);Left,[FK],Tag
+Stunt Double (Johnny Cage);[BP],[FP],Right,[BP],Tag
+Cameo (Johnny Cage);[FP],[FK],Tag
+Double Feature (Johnny Cage);[BP],[FP],Tag
+Stand-In (Johnny Cage);[BP],[FP],Right,[BP],Tag
+Low Forceball (Johnny Cage);Down,Right,[BP]
+High Forceball (Johnny Cage);Down,Left,[BP]
+Flip Kick (Johnny Cage);Down,Left,[FK]
+Shadow Kick (Johnny Cage);Left,Right,[BK]
+Nut Punch (Johnny Cage);Left,Down,[FP]
+Double Low Ball (Johnny Cage);Down,Right,[BP],Block
+Double High Ball (Johnny Cage);Down,Left,[BP],Block
+Ultra Flip Kick (Johnny Cage);Down,Left,[FK],Block
+Eclipse Kick (Johnny Cage);Left,Right,[BK],Block
+Nutcracker (Johnny Cage);Left,Down,[FP],Block
+Ball Buster (Johnny Cage);Flip Stance,Block
+Heads Up (Johnny Cage);Right,Right,Left,Down,[FK]
+And The Winner Is... (Johnny Cage);Down,Right,Down,Right,[BK]
+Stage Fatality (Johnny Cage);Down,Left,Right,Block
+Babality (Johnny Cage);Right,Left,Right,[BK]
+Uppercut (Kabal);Down,[BP]
+Hook Swipe (Kabal);Left,[FP]
+Strong Fist (Kabal);Left,[BP]
+Step Kick (Kabal);Right,[FK]
+Big Knee (Kabal);Right,[BK]
+Sweep (Kabal);Left,[BK]
+Last Breath (Kabal);[FP],[FP],[FP]
+Extermination (Kabal);[FP],[FP],Left,[BK],[FK]
+Mutilation (Kabal);Left,[FP],[BP],[FP]
+Vanquish (Kabal);[BP],[FP],[BP]
+Nomad's Fear (Kabal);Right,[FK],[BP]
+Eviscerate (Kabal);Right,[BK],[FP],[BP]
+Up Next (Kabal);Left,[FP],[BP],[FP],Tag
+Your Turn (Kabal);[FP],[FP],Left,[BK],Tag
+Partners in Crime (Kabal);Left,[FP],[BP],Tag
+Rebirth (Kabal);[BP],[FP],Tag
+Gas Blast (Kabal);Left,Left,[FP]
+Nomad Dash (Kabal);Left,Right,[BK]
+Buzzsaw (Kabal);Left,Left,[FK]
+Tornado Slam (Kabal);Down,Left,[BP]
+Vapor Blase (Kabal);Left,Left,[FP],Block
+Nomad Charge (Kabal);Left,Right,[BK],Block
+Saw Blades (Kabal);Left,Left,[FK],Block
+Cyclone Slam (Kabal);Down,Left,[BP],Block
+Kabal's Deep (Kabal);Flip Stance,Block
+Hook Up (Kabal);Left,Right,Left,Right,[FP]
+I Takes Guts (Kabal);Down,Down,Left,Right,Block
+Stage Fatality (Kabal);Down,Down,[BK]
+Babality (Kabal);Right,Down,Left,[FK]
+Strong Strike (Kano);Right,[FP]
+Uppercut (Kano);Down,[BP]
+Gut Poke (Kano);Left,[FP]
+Overhead Smash (Kano);Left,[BP]
+Shin Kick (Kano);Right,[FK]
+Hop Roundhouse (Kano);Right,[BK]
+Sweep (Kano);Left,[BK]
+One Two Three (Kano);[FP],[FP],[BP]
+Fighting King (Kano);Right,[FP],[FP]
+No escape (Kano);Right,[FP],[BP]
+Dragon's Tail (Kano);Left,[FP],[FP],[BP]
+Snake Bite (Kano);Left,[FP],[BP]
+Getting Ahead (Kano);[BP],[FP],[BP]
+Uplifting Force (Kano);Left,[BP],[FK]
+Smashing Time (Kano);Left,[BP],Right,[FP]
+Double Dragon (Kano);[FK],[FK]
+The Rage Kicks (Kano);Right,[FK],[FK]
+Mean Machine (Kano);Right,[FK],Left,[BP]
+Lead Head (Kano);Left,[FP],[FP],[BP],Tag
+Ear to Ear (Kano);[BP],[FP],[BP],Tag
+Bloodthirsty (Kano);Right,[FK],Left,[BP],Tag
+Troublesome (Kano);[FP],[FP],Tag
+Deliquent (Kano);Left,[FP],[FP],Tag
+Villianous (Kano);[BP],[FP],Tag
+Mischievous (Kano);Left,[BP],Tag
+Ball (Kano);Right,Down,Left,Right
+Down Ball (Kano);Right,Down,Left,Right
+Up Ball (Kano);Down,Right,[BP]
+Choke (Kano);Down,Right,[FP]
+Knife Throw (Kano);Down,Left,[BP]
+Air Throw (Kano);Throw
+Kano Ball (Kano);Right,Down,Left,Right,Block
+Downward Ball (Kano);Right,Down,Left,Right,Block
+Uprise Ball (Kano);Down,Right,[BP],Block
+Kano Choke (Kano);Down,Right,[FP],Block
+Knife Toss (Kano);Down,Left,[BP],Block
+Just The Tip (Kano);Flip Stance,Block
+Heartbreak (Kano);Left,Down,Left,Right,[FP]
+Eat Your Heart Out (Kano);Down,Down,Right,Left,[BK]
+Stage Fatality (Kano);Up,Up,Left,[FK]
+Babality (Kano);Right,Right,Down,Down,[FK]
+Fan Slice (Kitana);Left,[FP]
+Uprise (Kitana);Left,[BP]
+Shin Kick (Kitana);Left,[FK]
+Fan Stab (Kitana);Right,[BP]
+Hop Kick (Kitana);Right,[FK]
+Spin Kick (Kitana);Right,[BK]
+Sweep (Kitana);Left,[BK]
+Royal Pain (Kitana);[FP],[FP],[BP]
+Dignified (Kitana);Left,[FP],[BP]
+Majestic (Kitana);[BP],[FP],[BP]
+Noble Lift (Kitana);Right,[BP],[FP]
+Regal Assault (Kitana);[FK],[FK],[FK]
+Blue Blood (Kitana);Left,[FK]
+Power Intrusion (Kitana);Right,[FK],[FP],[BP]
+Deadly Rush (Kitana);Right,[BK],[FP]
+pure Kicks (Kitana);Right,[BK],[FK]
+Deception (Kitana);Right,[BK],Left,[BK]
+Truth Be Told (Kitana);Right,[BP],[FK],Tag
+Effortless (Kitana);Right,[FK],[FP],[BP],Tag
+Big Fan (Kitana);Left,Left,[BP],Tag
+Pretty Princess (Kitana);Left,[FP],Tag
+Mesmerizing (Kitana);[BP],[FP],Tag
+Magnificient (Kitana);[FK],[FK],Tag
+Disrespect (Kitana);Right,[FK],[FP],Tag
+Fan Toss (Kitana);Down,Right,[FP]
+Upraise (Kitana);Left,Left,[BP]
+Cutting Fan (Kitana);Down,Right,[BP]
+Square Boost (Kitana);Down,Left,[BP]
+Pretty Kick (Kitana);Down,Left,[FK]
+Fake Out Kick (Kitana);Down,Left,[BK]
+Charged Fan (Kitana);Down,Right,[FP],Block
+Uplift (Kitana);Left,Left,[BP],Block
+Fan Dice (Kitana);Down,Right,[BP],Block
+Square Wave (Kitana);Down,Left,[FP],Block
+Pretty Legs (Kitana);Down,Left,[FK],Block
+Big Fan (Kitana);Flip Stance,Block
+Fan Opener (Kitana);Down,Down,Left,Right,[BP]
+Splitting Headache (Kitana);Right,Down,Right,Left,[FK]
+Stage Fatality (Kitana);Right,Down,Down,[FK]
+Babality (Kitana);Right,Down,Right,[BK]
+Ares Slash (Kratos);Left,[FP]
+Zeus Slice (Kratos);Right,[FP]
+Divine Lift (Kratos);Left,[BP]
+Spartan Bash (Kratos);Right,[BP]
+Spartan Knee (Kratos);Right,[BK]
+Uppercut (Kratos);Down,[BP]
+Sweep (Kratos);Left,[BK]
+Valor of Hercules (Kratos);[FP],[FP],[BP]
+Wrath of Zeus (Kratos);Right,[BP],[FP]
+Anguish Of Zeus (Kratos);Right,[BP],[BP]
+Pandora's Soul (Kratos);Right,[BK],[BP]
+Hades Pain (Kratos);Left,[FP],Left,[BK]
+Hades Edge (Kratos);Left,[FP],[BP]
+Aphrodite's Will (Kratos);Right,[FP],[BK]
+Athena's Fury (Kratos);[BP],[FP],[BP]
+Olympic Ascencion (Kratos);Left,[BP],[FP]
+Olympic Burst (Kratos);Left,[BP],[BP]
+Olympic Blast (Kratos);Left,[BP],[FK]
+Olympic Toss (Kratos);Left,[BP],[BK]
+Achilles Strike (Kratos);Right,[BP],[BP],[FP]
+Athena's Rage (Kratos);[BP],[FP],[BP],Tag
+Olympic Chain (Kratos);Left,[BP],Tag
+Pandora's Box (Kratos);Right,[BK],[BP],Tag
+Hercules Rush (Kratos);[FP],[FP],Tag
+Athena's Pain (Kratos);[BP],[FP],Tag
+Apollo's Bow (Kratos);Down,Right,[BP]
+Head of Helios (Kratos);Down,Left,[BP]
+Hermes Dash (Kratos);Left,Right,[BK]
+Golden Fleece (Kratos);Down,Left,[FP]
+Zeus' Rage (Kratos);Down,Right,[FK]
+Apollo's Inferno (Kratos);Down,Right,[BP],Block
+Helios Flash (Kratos);Down,Left,[BP],Block
+Hermes Rush (Kratos);Left,Right,[BK],Block
+Argo's Ram (Kratos);Down,Left,[FP],Block
+Revenge of Olympus (Kratos);Down,Right,[FK],Block
+Nemean Cestus (Kratos);Flip Stance,Block
+Blade of Olympus (Kratos);Down,Down,Left,Right,[BP]
+Medusa's Gaze (Kratos);Down,Left,Down,Right,[FP]
+Stage Fatality (Kratos);Down,Down,Down,[FK]
+Babality (Kratos);Down,Right,Left,[BP]
+Chops (Kung-Lao);Left,[FP]
+Hat Swipe (Kung-Lao);Right,[BP]
+Rolling Thunder (Kung-Lao);Right,[FK]
+Point Kick (Kung-Lao);Left,[FK]
+Hop Kick (Kung-Lao);Right,[BK]
+Sweep (Kung-Lao);Left,[BK]
+Windy Palm (Kung-Lao);[FP],[FP],[BP],[FP]
+Healing Wind (Kung-Lao);Left,[FP],Right,[FP]
+Chained Fist (Kung-Lao);[BP],[FP],[BP],[FP],[BP]
+Iron Broom (Kung-Lao);[BP],[BK],[BP],[FP]
+Leg Bar (Kung-Lao);[BP],[BK],[FP],[FK]
+Uprooting Stomp (Kung-Lao);[BP],[BK],[FP],[FK],[FK]
+Plum Flower (Kung-Lao);[BP],[BK],[FP],[FK],[FP]
+Lead The Way (Kung-Lao);Left,[FK],[FK],[FK]
+Athena's Rage (Kung-Lao);[BP],[FP],[BP],Tag
+Olympic Chain (Kung-Lao);Left,[BP],Tag
+Pandora's Box (Kung-Lao);Right,[BK],[BP],Tag
+Hercules Rush (Kung-Lao);[FP],[FP],Tag
+Athena's Pain (Kung-Lao);[BP],[FP],Tag
+Hat Toss (Kung-Lao);Left,Right,[BP]
+Ground Hat (Kung-Lao);Down,Left,[BP]
+Spin (Kung-Lao);Down,Right,[FP]
+Dive Kick (Kung-Lao);Down,[BK]
+Teleport (Kung-Lao);Down,Up
+Ultimate Hat (Kung-Lao);Left,Right,[BP],Block
+Grinding Hat (Kung-Lao);Down,Left,[BP],Block
+Cyclone (Kung-Lao);Down,Right,[FP],Block
+Multi Kick (Kung-Lao);Down,[BK],Block
+Fist of Shaolin (Kung-Lao);Flip Stance,Block
+Hat Trick (Kung-Lao);Left,Right,Right,Left,[BP]
+Razor's Edge (Kung-Lao);Down,Down,Right,Left,[FP]
+Stage Fatality (Kung-Lao);Down,Right,Down,[FK]
+Babality (Kung-Lao);Down,Right,Down,[BP]
+Uppercut (Liu-Kang);Down,[BP]
+Fierce Jab (Liu-Kang);Right,[BP]
+Gut Strike (Liu-Kang);Left,[BP]
+Knee Bash (Liu-Kang);Right,[BP]
+Shaolin Heel (Liu-Kang);Right,[FK]
+Knee Kick (Liu-Kang);Left,[FK]
+Shin Kick (Liu-Kang);Right,[BK]
+Sweep (Liu-Kang);Left,[BK]
+Dragon Stance (Liu-Kang);Down,Left,[BP]
+Final Act (Liu-Kang);[FP]
+Fist of Death (Liu-Kang);[BP]
+Shaolin Flip (Liu-Kang);[FK]
+Moon Sweep (Liu-Kang);[BK]
+Three Fists (Liu-Kang);[FP],[FP],[FP]
+Death Fist (Liu-Kang);[FP],[FP],[BP]
+Blasing Blasts (Liu-Kang);Left,[FP],[BP],[FP]
+Immortal Dragon (Liu-Kang);Left,[FP],Left,[BP],Left,[FP]
+Fierge Tiger (Liu-Kang);[BP],[FP],[FK]
+Showdown (Liu-Kang);Right,[BP],[BK]
+Launching Fury (Liu-Kang);Left,[BP],Left,[FK]
+Leftdown (Liu-Kang);Left,[FP],[BK]
+Lotus Flurry (Liu-Kang);[FK],[FK],[BK]
+Final Act (Liu-Kang);Left,[FK],[FP],[BP]
+Krusing Kombo (Liu-Kang);Right,[BK],[FK]
+Shaolin Spirit (Liu-Kang);Left,[FP],Left,[BP],Left,[FP],Tag
+Dragon's Bite (Liu-Kang);Left,[FK],[FP],[BP],Tag
+Next Time (Liu-Kang);[FP],Tag
+Fist Swaps (Liu-Kang);[FP],[FP],Tag
+Friendly (Liu-Kang);Right,[FP],[BP],Tag
+Step-In (Liu-Kang);Right,[FP],Left,[BP],Tag
+Dragon Dance (Liu-Kang);[BP],Left,[FP],Tag
+Twin Lotus (Liu-Kang);[FK],[FK],Tag
+Harm-onious (Liu-Kang);Left,[FK],[FP],Tag
+High Fireball (Liu-Kang);Left,Right,[FP]
+Low Fireball (Liu-Kang);Left,Right,[FK]
+Flying Dragon Kick (Liu-Kang);Left,Right,[BP]
+Bicycle Kick (Liu-Kang);Left,Left,Right,[BK]
+Parry (Liu-Kang);Down,Left,[FP]
+High Dragon Fire (Liu-Kang);Left,Right,[FP],Block
+Low Dragon Fire (Liu-Kang);Left,Right,[FK],Block
+Flame Dragon Kick (Liu-Kang);Left,Right,[BP],Block
+Bicycle Steps (Liu-Kang);Left,Left,Right,[BK],Block
+Burning Parry (Liu-Kang);Down,Left,[FP],Block
+Chin-Up (Liu-Kang);Flip Stance,Block
+Fist of Flame (Liu-Kang);Right,Left,Down,Down,[FK]
+The Beast Within (Liu-Kang);Down,Down,Right,Down,[BK]
+Stage Fatality (Liu-Kang);Down,Right,Left,[FK]
+Babality (Liu-Kang);Down,Down,Down,[BK]
+Uppercut (Mileena);Down,[BP]
+Leaping Sai (Mileena);Left,[BP]
+Sai Impale (Mileena);Right,[BP]
+Lunge Kick (Mileena);Right,[FK]
+Sneaky Kick (Mileena);Left,[FK]
+Splits (Mileena);Up,[BK]
+Sweep (Mileena);Left,[BK]
+Smacked Around (Mileena);[FP],[FP],[BP]
+Boot Down (Mileena);Left,[BP],[BK]
+Bones (Mileena);[BP],[FK],[BK]
+Pretty Slasher (Mileena);Right,[FK],[FP],[BP]
+Killer Heels (Mileena);[FK],[BK]
+Getaway Sticks (Mileena);Left,[FK],Left,[BK]
+Friendly Kiss (Mileena);[BK],[BP]
+Malice (Mileena);Up,[BK],Tag
+Malevolence (Mileena);[FP],[FP],Tag
+Fiendish (Mileena);[BP],[FK],Tag
+Sai Blast (Mileena);Left,Right,[FP]
+Teleport Drop (Mileena);Right,Right,[FK]
+Leaping Neckbite (Mileena);Left,Right,[BP]
+Ball Roll (Mileena);Left,Down,[BK]
+Sai Bursts (Mileena);Left,Right,[FP],Block
+Tricky Teleport (Mileena);Right,Right,[FK],Block
+Leaping Lunch (Mileena);Left,Right,[BP],Block
+Smashing Roll (Mileena);Left,Down,[BK],Block
+Femme Fatale (Mileena);Flip Stance,Block
+Be Mine (Mileena);Left,Right,Left,Right,[BP]
+Rip Off (Mileena);Left,Right,Left,Down,[FK],Up
+Stage fatality (Mileena);Down,Down,Down,[FP]
+Babality (Mileena);Down,Down,Right,Left,[BP]
+Knife Stab (Nightwolf);Left,[FP]
+Uppercut (Nightwolf);Down,[BP]
+Big Chop (Nightwolf);Left,[BP]
+Neck Stab (Nightwolf);Right,[BP]
+Toe Stomp (Nightwolf);Right,[FK]
+Sweep (Nightwolf);Left,[BK]
+Blade and Edge (Nightwolf);[FP],[FP],[BP]
+Axe Blast (Nightwolf);[FP],[BP],[BP],[FP]
+Dagger Stab (Nightwolf);Left,[FP],[FP],[FP]
+Deadly Dance (Nightwolf);[FP],[FP],[BK]
+New Earth (Nightwolf);[BP],[FK],[BK]
+Tomahawk Smash (Nightwolf);Left,[BP],[BP],[FP]
+Full Moon (Nightwolf);Right,[FK],[FP],[BP]
+Spirit Tracks (Nightwolf);Right,[FK],Left,[BK]
+Waning Moon (Nightwolf);Right,[FK],[FP],[BP],Tag
+Rising Hawk (Nightwolf);Down,Right,[FP],Tag
+Diving Eagle (Nightwolf);Down,Right,[FP],Block,Tag
+Razor's Edge (Nightwolf);[FP],[FP],Tag
+Falcon Swap (Nightwolf);[BP],[FP],[FP],Tag
+Deadly Talon (Nightwolf);[BP],[FK],Tag
+Howling Wolf (Nightwolf);Left,[BP],[BP],Tag
+Bull and Bear (Nightwolf);Right,[FK],[FP],Tag
+Shoulder (Nightwolf);Right,Right,[BK]
+Lightning (Nightwolf);Down,Left,[FK]
+Arrow Show (Nightwolf);Down,Left,[FP]
+Reflect (Nightwolf);Down,Left,[BP]
+Axe Swing (Nightwolf);Down,Right,[FP]
+Choke (Nightwolf);Down,Right,[BP]
+Power Charge (Nightwolf);Right,Right,[BK],Block
+Thunder Storm (Nightwolf);Down,Left,[FK],Block
+Multi-Arrow (Nightwolf);Down,Left,[FP],Block
+Absorb (Nightwolf);Down,Left,[BP],Block
+Tomahawk Bash (Nightwolf);Down,Right,[FP],Block
+Strangle (Nightwolf);Down,Right,[BP],Block
+Ancestors Call (Nightwolf);Flip Stance,Block
+Little Off The Top (Nightwolf);Down,Right,Down,Left,[BK]
+Ascension (Nightwolf);Down,Down,Right,Left,[FP]
+Stage Fatality (Nightwolf);Down,Down,Down,Block
+Babality (Nightwolf);Right,Left,Right,Left,[FP]
+Saibot Strike (Noob Saibot);Left,[FP]
+Uppercut (Noob Saibot);Down,[BP]
+Hook Punch (Noob Saibot);Left,[BP]
+Point Kick (Noob Saibot);Right,[FK]
+Snap Kick (Noob Saibot);Right,[BK]
+Sweep (Noob Saibot);Left,[BK]
+Saibot Blast (Noob Saibot);[BP],[FP]
+Sneaky Saibot (Noob Saibot);Left,[FP],[BP],Right,[BK]
+Evil Twin (Noob Saibot);Left,[FP],[BP],[FP],Right,[BK]
+Saibot Strike (Noob Saibot);Left,[FP],[BP],[FP],[BK]
+Assassinate (Noob Saibot);[BP],[FP],[BP]
+No Compassion (Noob Saibot);Left,[BP],[FP],[BK]
+Reincarnated (Noob Saibot);Right,[FK],[FK],[FK]
+Possessed (Noob Saibot);Right,[BK],[FK]
+Mysterious (Noob Saibot);Left,[FP],[BP],[FP],Tag
+Entangles (Noob Saibot);Left,[FP],[BP],Tag
+Warped Rush (Noob Saibot);[BP],[FP],Tag
+Tragic (Noob Saibot);Left,[FP],[BP],Tag
+The Shadow (Noob Saibot);Right,[FK],[FK],Tag
+Ghostball (Noob Saibot);Down,Right,[FP]
+Blackhole(above) (Noob Saibot);Down,Left,[BP]
+Blackhole(behind) (Noob Saibot);Down,Right,[BP]
+Blackhole(front) (Noob Saibot);Down,Right,Left,[BP]
+Teleport slam (Noob Saibot);Down,Up
+Shadow Charge (Noob Saibot);Down,Right,[FK]
+Shadow Upknee (Noob Saibot);Down,Left,[FK]
+Shadow Slide (Noob Saibot);Left,Right,[BK]
+Spiritball (Noob Saibot);Down,Right,[FP],Block
+Darkness(above) (Noob Saibot);Down,Left,[BP],Block
+Darkness(behind) (Noob Saibot);Down,Right,[BP],Block
+Darkness(front) (Noob Saibot);Down,Right,Left,[BP],Block
+Teleport Smash (Noob Saibot);Down,Up,Block
+Saibot Charge (Noob Saibot);Down,Right,[FK],Block
+Saibot Upknee (Noob Saibot);Down,Left,[FK],Block
+Saibot Slide (Noob Saibot);Left,Right,[BK],Block
+Together Again (Noob Saibot);Flip Stance,Block
+Make a Wish (Noob Saibot);Left,Right,Left,Down,[BK]
+As One (Noob Saibot);Down,Down,Left,Down,Block
+Stage Fatality (Noob Saibot);Right,Down,Right,Block
+Babality (Noob Saibot);Right,Up,Right,[FP]
+Left Hand (Quan Chi);Left,[FP]
+Overhead Swipe (Quan Chi);Right,[FP]
+Uppercut (Quan Chi);Down,[BP]
+Side Chop (Quan Chi);Left,[BP]
+Low Hop Kick (Quan Chi);Up,[FK]
+Shin Kick (Quan Chi);Left,[FK]
+Hop Kick (Quan Chi);Right,[BK]
+Sweep (Quan Chi);Left,[BK]
+Afterlife (Quan Chi);[FP],[FP],[BP]
+Under Torment (Quan Chi);[FP],[FP],[FK]
+Conjurer's Crush (Quan Chi);Left,[FP],[FP]
+Corruption (Quan Chi);Right,[FP],[BP],[BP],[FP]
+Spellbinder (Quan Chi);[BP],[FP],[BP]
+Root Of Evil (Quan Chi);[BP],[FP],[BK]
+Enchantment (Quan Chi);[BP],[FP],Up,[FK]
+Wounded Wrath (Quan Chi);Left,[BP],[FP]
+Incantation (Quan Chi);Left,[BP],[BK]
+Deterioration (Quan Chi);Left,[FK],[FK]
+Annihilation (Quan Chi);Left,[FK],[BP],[FP]
+Sinister (Quan Chi);Left,[BP],[FP],Tag
+Die-Abolical (Quan Chi);Left,[FK],[FP],[BP],Tag
+Alternative Means (Quan Chi);[FP],[FP],Tag
+Kruel Intentions (Quan Chi);Right,[FP],[BP],Tag
+Bad Omen (Quan Chi);[BP],[FP],Tag
+Skeletal Boot (Quan Chi);Down,Left,[BK]
+Close (Quan Chi);Down,Left,[FP]
+Medium (Quan Chi);Down,Right,[FP]
+Far (Quan Chi);Down,Left,Right,[FP]
+Skull Ball (Quan Chi);Down,Left,[BP]
+Sky Drop (Quan Chi);Down,Left,[FK]
+Trance (Quan Chi);Left,Right,[FK]
+Skeletal Buff (Quan Chi);Down,Left,[BK],Block
+Close (Quan Chi);Down,Left,[FP],Block
+Medium (Quan Chi);Down,Right,[FP],Block
+Far (Quan Chi);Down,Left,Right,[FP],Block
+Skull Chomp (Quan Chi);Down,Left,[BP],Block
+Sky Stomp (Quan Chi);Down,Left,[FK],Block
+Mesmerize (Quan Chi);Left,Right,[FK],Block
+Amulet Assault (Quan Chi);Flip Stance,Block
+Beat Down (Quan Chi);Right,Right,Down,Down,[FP]
+On Your Knees (Quan Chi);Down,Right,Down,Right,[BK]
+Stage Fatality (Quan Chi);Left,Right,Down,[BP]
+Babality (Quan Chi);Right,Down,Left,[BP]
+Static Touch (Raiden);Left,[BP]
+Gut Strike (Raiden);Right,[BP]
+Side Kick (Raiden);Left,[FK]
+Spinning Kick (Raiden);Right,[FK]
+Heel Smash (Raiden);Right,[BK]
+Uppercut (Raiden);Down,[BP]
+Sweep (Raiden);Left,[BK]
+Heavenly Hand (Raiden);[FP],[BP],[FP],[BP]
+Sudden Energy (Raiden);[BP],[BP],Right,[FP]
+White Lightning (Raiden);[BP],[BP],Left,[BK]
+Violent Thunder (Raiden);Left,[BP],Right,[FP],[BP],[FP]
+Quick Burn (Raiden);Right,[BP],[BK]
+Flash Storm (Raiden);Right,[BP],[FK],[BP],[FP]
+Spark Kicks (Raiden);[FK],[FK],[BK]
+Thunder God (Raiden);Left,[FK],[FP],[BP]
+Distant Thunder (Raiden);[FK],[FK],[BK],Tag
+Elder Fury (Raiden);Left,[FK],[FP],[BP],Tag
+God Fist (Raiden);Right,[BP],[BK],Tag
+Godlike (Raiden);[BP],[BP],Tag
+Supernatural (Raiden);Left,[BP],Right,[FP],Tag
+Divine Power (Raiden);Right,[BP],[FK],Tag
+Lightning (Raiden);Down,Left,[FP]
+Electrocute (Raiden);Down,Right,[BP]
+Electric Fly (Raiden);Left,Right,[FK]
+Teleport (Raiden);Down,Up
+Vicinity Blast (Raiden);Down,Left,[BP]
+Bolt (Raiden);Down,Left,[FP],Block
+Shocker (Raiden);Down,Right,[BP],Block
+Thunder Fly (Raiden);Left,Right,[FK],Block
+Sparkport (Raiden);Down,Up,Block
+Vicinity Burst (Raiden);Down,Left,[BP],Block
+Shock Therapy (Raiden);Flip Stance,Block
+Just a Scratch (Raiden);Down,Right,Down,Right,[FP]
+Transplant (Raiden);Left,Right,Right,Down,[BK]
+Stage Fatality (Raiden);Down,Down,Down,[BP]
+Babality (Raiden);Down,Left,Down,[BK]
+Uppercut (Reptile);Down,[BP]
+Reptile Smash (Reptile);Right,[BP]
+Low Swipe (Reptile);Left,[FP]
+Hop Kick (Reptile);Right,[FK]
+Sweep (Reptile);Left,[BK]
+Cold Blooded (Reptile);[FP],[BP],[BK]
+Carnivore Bash (Reptile);[FP],[BP],[BP],[FP]
+Deadly Venom (Reptile);[FP],[BP],Left,[FP]
+Just Hatched (Reptile);[BP],Right,[FK]
+Hybrid Blast (Reptile);[BP],[BK],[FK]
+Bybrid Crush (Reptile);[BP],Right,[FK],[BP],[FP]
+Evolution (Reptile);Right,[BP],Left,[FP]
+Amphibian Charge (Reptile);[FK],[BP],[FP]
+Slithered (Reptile);[FK],[BP],Left,[BK]
+Swamp Strikes (Reptile);Right,[FK],[BP],[FP]
+Carnivorous (Reptile);[FP],[BP],[BP],[FP],Tag
+Nocturnal (Reptile);Right,[BP],Left,[FP],Tag
+Aquatic (Reptile);[FK],[BP],[FP],Tag
+Shredding Skin (Reptile);Left,Right,[BP],Block,Tag
+Toxic (Reptile);[FP],[BP],Tag
+Ravenous (Reptile);[FP],[BP],[BP],Tag
+Anguish (Reptile);[FK],[BP],Tag
+Slow Force Ball (Reptile);Left,Left,[FP]
+Fast Force Ball (Reptile);Left,Left,[FK]
+Slide (Reptile);Left,Right,[BK]
+Acid Hand (Reptile);Down,Left,[BP]
+Invisibility (Reptile);Down,Up,[BK]
+Acid Spit (Reptile);Down,Right,[FP]
+Elbow Dash (Reptile);Left,Right,[BP]
+Slow Mega Ball (Reptile);Left,Left,[FP],Block
+Fast Mega Ball (Reptile);Left,Left,[FK],Block
+Slime Trail (Reptile);Left,Right,[BK],Block
+Reptilian Hand (Reptile);Down,Left,[BP],Block
+Vanish (Reptile);Down,Up,[BK],Block
+Acid Stream (Reptile);Down,Right,[FP],Block
+Reptilian Elbow (Reptile);Left,Right,[BP],Block
+Tricky Lizard (Reptile);Flip Stance,Block
+Acid Yak (Reptile);Right,Right,Down,Up,[FK]
+Weight Loss (Reptile);Down,Down,Right,Left,[FP]
+Stage Fatality (Reptile);Right,Down,Down,Block
+Babality (Reptile);Left,Right,Left,Down,[FK]
+Klassic Fatality (Reptile);Left,Left,Right,Down,Block
+Uppercut (Scorpion);Down,[BP]
+Down Slice (Scorpion);Left,[BP]
+Blade Overhead (Scorpion);Right,[BP]
+Heel Kick (Scorpion);Left,[FK]
+Shin Blast (Scorpion);Right,[FK]
+Sweep (Scorpion);Left,[BK]
+Torment (Scorpion);[FP],[FP],[FP]
+Damnation (Scorpion);[FP],[FP],[BK]
+Brimstone (Scorpion);[BP],[FP],[BP]
+Grave Digger (Scorpion);[BP],[FP],[BP]
+Doom Blade (Scorpion);Right,[BP],[FP],[BK]
+Grievance (Scorpion);Right,[BK],[FK]
+Underworld (Scorpion);[BP],[FP],[BP],Tag
+Soulless (Scorpion);Left,[BP],Tag
+Eternal Vengeance (Scorpion);[FP],[FP],Tag
+Punishment (Scorpion);[BP],[FP],Tag
+Affliction (Scorpion);Right,[BP],[FP],Tag
+Revenge (Scorpion);[FK],[FK],Tag
+Spear (Scorpion);Left,Left,[FP]
+Demon Fire (Scorpion);Down,Left,[BP]
+Teleport (Scorpion);Down,Left,[FK]
+Takedown (Scorpion);Down,Left,[BK]
+Air Throw (Scorpion);Block
+Flame Spear (Scorpion);Left,Left,[FP],Block
+Hell Fire (Scorpion);Down,Left,[BP],Block
+Flameport (Scorpion);Down,Left,[FK],Block
+Takeout (Scorpion);Down,Left,[BK],Block
+Scorpion Sting (Scorpion);Flip Stance,Block
+Split Decision (Scorpion);Right,Down,Right,[BP]
+Nether-Gate (Scorpion);Left,Right,Left,[FK]
+Stage fatality (Scorpion);Right,Up,Up,[FP]
+Babality (Scorpion);Down,Left,Right,Down,[BP]
+Klassic Fatality (Scorpion);Down,Up,Up,[BP]
+Uppercut (Sektor);Down,[BP]
+Afterburn (Sektor);Left,[FP]
+Gut Crusher (Sektor);Left,[BP]
+Toe Kick (Sektor);Left,[FK]
+Rising Knee (Sektor);Right,[BK]
+Chargine Embow (Sektor);Right,[BP]
+Sweep (Sektor);Left,[BK]
+Leg Lift (Sektor);Up,[FK]
+Toe Kick (Sektor);[BK]
+Sneaky Kicks (Sektor);[FK],[BK]
+System Overload (Sektor);[FP],[BP],Left,[FP]
+Hard Crash (Sektor);[FP],[BP],[BP]
+Malfunction (Sektor);Right,[BP],Left,[FP]
+Fustion Force (Sektor);[FP],[BP],[BK]
+Access Denied (Sektor);[FP],[FK]
+Demolition (Sektor);[BP],[FP],[BK]
+Drive Power (Sektor);Left,[BP],[FP]
+User Error (Sektor);Right,[BK],[FK]
+Fatal Error (Sektor);Right,[BK],[BK]
+Intersect (Sektor);Down,Right,[BK],Tag
+Partition (Sektor);Down,Right,[BK],Block
+System Lock (Sektor);[FP],[BP],Left,[FP],Tag
+Detached (Sektor);[FP],[BP],Tag
+Spare Parts (Sektor);[BP],[FP],Tag
+Crank Off (Sektor);Left,[BP],Tag
+System Leftup (Sektor);Right,[BK],Tag
+Flame Burner (Sektor);Left,Right,[BP]
+Teleport Uppercut (Sektor);Down,Right,[BK]
+Straight Missile (Sektor);Left,Right,[FP]
+Above (Sektor);Down,Left,[FK]
+Behind (Sektor);Down,Left,Right,[FK]
+In Front (Sektor);Down,Right,Left,[FK]
+Flame Thrower (Sektor);Left,Right,[BP],Block
+Metal Uppercut (Sektor);Down,Right,[BK],Block
+Double Missile (Sektor);Left,Right,[FP],Block
+Homing Missile (Sektor);Down,Left,[FK],Block
+Massive Missile (Sektor);Flip Stance,Block
+Robo-Sek (Sektor);Right,Down,Left,Right,[FK]
+The Scarecrow (Sektor);Down,Down,Right,Left,[FP]
+Stage Fatality (Sektor);Down,Right,Down,Block
+Babality (Sektor);Left,Down,Down,Down,[BK]
+Elbow Poke (Shang Tsung);Left,[FP]
+Forearm Strike (Shang Tsung);Left,[BP]
+Elbow Blast (Shang Tsung);Right,[BP]
+Shin Attack (Shang Tsung);Right,[FK]
+Quick Knee (Shang Tsung);Right,[BK]
+Uppercut (Shang Tsung);Down,[BP]
+Sweep (Shang Tsung);Left,[BK]
+Bad Omen (Shang Tsung);[FP],[BP],[FP]
+Soul Stain (Shang Tsung);[BP],[FP],[FP]
+Soul Torment (Shang Tsung);[FP],[FK]
+Reserved Pain (Shang Tsung);Left,[FP],[BP],[FP],[BK]
+Death Walker (Shang Tsung);[BP],[BP],[FP]
+Restored Youth (Shang Tsung);[BP],[BP],Left,[BK]
+Play Time (Shang Tsung);Right,[FK],[BK]
+Deadly Truth (Shang Tsung);Right,[BK],[FK],[BK]
+Side by Side (Shang Tsung);Left,[FP],[BP],[FP],Tag
+Ruthless (Shang Tsung);[BP],[BP],[FP],Tag
+Soul Stealer (Shang Tsung);[FP],[BP],Tag
+Burning Evil (Shang Tsung);Left,[FP],[BP],Tag
+B-Trade (Shang Tsung);[BP],[BP],Tag
+Two of a Kind (Shang Tsung);Right,[BK],[FK],Tag
+Fire Skull (Shang Tsung);Left,Left,[FP]
+Above (Shang Tsung);Down,Up,[BP]
+Behind (Shang Tsung);Down,Right,[BP]
+In Front (Shang Tsung);Down,Left,[BP]
+Close (Shang Tsung);Down,Up,[BK]
+Medium (Shang Tsung);Down,Left,[BK]
+Far (Shang Tsung);Down,Right,[BK]
+Soul Steal (Shang Tsung);Right,Down,Left,[FK]
+Triple Skulls (Shang Tsung);Left,Left,[FP],Block
+Above (Shang Tsung);Down,Up,[BP],Block
+Behind (Shang Tsung);Down,Right,[BP],Block
+In Front (Shang Tsung);Down,Left,[BP],Block
+Close (Shang Tsung);Down,Up,[BK],Block
+Medium (Shang Tsung);Down,Left,[BK],Block
+Far (Shang Tsung);Down,Right,[BK],Block
+Soul Capture (Shang Tsung);Right,Down,Left,[FK],Block
+Your Soul is Mine (Shang Tsung);Flip Stance,Block
+Bang Bang! (Shang Tsung);Left,Down,Right,[FK]
+Identity Theft (Shang Tsung);Down,Down,Left,Down,[BP]
+Stage Fatality (Shang Tsung);Up,Up,Left,[FP]
+Babality (Shang Tsung);Down,Left,Down,[FK]
+Big Swing (Sheeva);Left,[FP]
+Step Palms (Sheeva);Right,[BP]
+Low Swipe (Sheeva);Left,[BP]
+Knee Kick (Sheeva);Right,[FK]
+Swinging Leg (Sheeva);Right,[BK]
+Uppercut (Sheeva);Down,[BP]
+Sweep (Sheeva);Left,[BK]
+Shokan Fury (Sheeva);[FP],[BP],Left,[FP]
+Blood Lust (Sheeva);[FP],Left,[BP],Right,[FP]
+Darkness (Sheeva);Left,[FP],[BP],[BP],[FP]
+Four-Way (Sheeva);[BP],[FP],[BP],Right,[FP]
+Sheeva Rush (Sheeva);[BP],[FP],[BP],Left,[FP]
+Quad Toss (Sheeva);Left,[BP],[BP],[FP]
+Demolish (Sheeva);Right,[BP],Left,[FP]
+Turmoil (Sheeva);[FK],[FK]
+Rehabilitated (Sheeva);Right,[FK],[BP]
+Perfect Match (Sheeva);[FP],[BP],Left,[FP],Tag
+Better Than (Sheeva);[BP],[FP],[BP],Right,[FP],Tag
+Helping Hands (Sheeva);[FP],[BP],Tag
+Protector (Sheeva);[FP],Left,[BP],Tag
+Distrusful (Sheeva);Left,[FP],[BP],Tag
+Destruction (Sheeva);[BP],[FP],[BP],Tag
+Fireball (Sheeva);Down,Right,[BP]
+Jump Stomp (Sheeva);Down,Up
+Ground Pound (Sheeva);Down,Left,[BK]
+Grab N Punch (Sheeva);Left,Right,[FK]
+Anti-Air Grab (Sheeva);Down,Right,[FP]
+Low Grab (Sheeva);Down,Left,[FK]
+Fire Blast (Sheeva);Down,Right,[BP],Block
+Jump Crush (Sheeva);Down,Up,Block
+Ground Smash (Sheeva);Down,Left,[BK],Block
+Untamed Fury (Sheeva);Left,Right,[FK],Block
+Power Anti-Air (Sheeva);Down,Right,[FP],Block
+Anti-Duck Throw (Sheeva);Down,Left,[FK],Block
+Slam Dance (Sheeva);Flip Stance,Block
+Stripped Down (Sheeva);Right,Down,Down,Right,[FP]
+Lend a Hand (Sheeva);Right,Left,Right,Left,[BK]
+Stage Fatality (Sheeva);Down,Down,Down,Down,[FP]
+Babality (Sheeva);Down,Down,Down,Left,[BK]
+Hand Sweep (Sindel);Left,[FP]
+Face Chop (Sindel);Right,[FP]
+Rising Fist (Sindel);Left,[BP]
+Front Kick (Sindel);Right,[FK]
+Hand Plant Heel (Sindel);Left,[FK]
+Split Kick (Sindel);Up,[BK]
+Arise (Sindel);Up,[FK]
+Uppercut (Sindel);Down,[BP]
+Sweep (Sindel);Left,[BK]
+Undead Bride (Sindel);[FP],[FP],[FP]
+Royal Pain (Sindel);[FP],[FP],Left,[BP],[BK]
+Reburth (Sindel);Left,[FP],[BP]
+Confronted (Sindel);Right,[FP],[BP],[BK]
+Anguish (Sindel);[BP],[FP],[BP]
+Sadness (Sindel);[BP],[FP],Left,[FK]
+Queen's Anger (Sindel);[FK],[FP],[FP]
+Unforgettable (Sindel);Left,[FK],Right,[BP]
+Child's Play (Sindel);[BK],[BK],Up,[FK]
+Royal Flush (Sindel);[FP],[FP],Left,[BP],Tag
+Regal Ruin (Sindel);Left,[FP],[BP],Tag
+Cataclysm (Sindel);Left,[BP],Tag
+Graceful Dead (Sindel);Left,[FK],Right,[BP]
+Bow To Me (Sindel);[FP],[FP],Tag
+Worthless (Sindel);Right,[FP],[BP],Tag
+Majestic Mash (Sindel);[BP],[FP],Tag
+Queen's Sorrow (Sindel);[FK],[FP],Tag
+That Was Fun! (Sindel);[BK],[BK],Tag
+Fireball (Sindel);Down,Right,[FP]
+Low Fireball (Sindel);Down,Right,[FK]
+Yell (Sindel);Down,Left,[BP]
+Hover (Sindel);Down,Down,Up
+Hair Whip (Sindel);Down,Right,[BP]
+Step Up (Sindel);Down,Right,[BK]
+Power Fireball (Sindel);Down,Right,[FP],Block
+Low Fire (Sindel);Down,Right,[FK],Block
+Scream (Sindel);Down,Left,[BP],Block
+Power Hover (Sindel);Down,Down,Up,Block
+Hair Toss (Sindel);Down,Right,[BP],Block
+Step Over (Sindel);Down,Right,[BK],Block
+Queen B (Sindel);Flip Stance,Block
+Migraine (Sindel);Left,Right,Down,Right,[FP]
+Mouthful (Sindel);Left,Right,Up,[BP]
+Stage Fatality (Sindel);Down,Down,Down,[FP]
+Babality (Sindel);Down,Down,Down,Up
+Jaw Chop (Smoke);Left,[FP]
+Hook Kick (Smoke);Left,[FK]
+Spin Kicks (Smoke);Right,[BK]
+Uppercut (Smoke);Down,[BP]
+Sweep (Smoke);Left,[BK]
+Ablaze (Smoke);[FP],[FP],[BP]
+Smoldering (Smoke);[FP],[FK]
+Red-Hot (Smoke);Left,[FP],[BK]
+Rekindle (Smoke);[BP],[FP],[BK]
+Combustion (Smoke);[FK],Down,[FP],[BP]
+Ashes to Ashes (Smoke);[FK],Down,[FP],[BP],Tag
+Dust to Dust (Smoke);[FK],[BP],Tag
+Incinerate (Smoke);[FP],[FP],Tag
+Immolation (Smoke);[BP],[FP],Tag
+Ignite (Smoke);[FK],Down,[FP],Tag
+Shake (Smoke);Left,Right,[FP]
+Smoke Cloud (Smoke);Down,Left,[BP]
+Air Throw (Smoke);Throw
+Teleport (Smoke);Down,Left,[BK]
+Invisibility (Smoke);Down,Up,[FK]
+Smoke Away (Smoke);Right,Left,[FK]
+Smoke Towards (Smoke);Left,Right,[FK]
+Vibration (Smoke);Left,Right,[FP],Block
+Smoke Bomb (Smoke);Down,Left,[BP],Block
+Smokeport (Smoke);Down,Left,[BK],Block
+Vanish (Smoke);Down,Up,[FK],Block
+Phase Away (Smoke);Right,Left,[FK],Block
+Phase Towards (Smoke);Left,Right,[FK],Block
+Burn Out (Smoke);Flip Stance,Block
+Smoked Out (Smoke);Left,Right,Left,Right,[FP]
+Tremor (Smoke);Left,Left,Down,Right,[BP]
+Stage Fatality (Smoke);Right,Up,Up,[FP]
+Babality (Smoke);Down,Left,Down,Right,Down
+Leftfist (Sonya);Right,[BP]
+Hookshot (Sonya);Left,[BP]
+Spin Kick (Sonya);Left,[FK]
+Sweep (Sonya);Right,[BP]
+Uppercut (Sonya);Down,[BP]
+Military Stance (Sonya);Down,Left,[BP]
+Double Kick (Sonya);[BK]
+Power Knee (Sonya);[FK]
+Shoulder (Sonya);[FP]
+Knockdown (Sonya);[BP]
+Tackle (Sonya);[FP],[FK],[BP],[FP]
+Dash Punches (Sonya);Right,[FP]
+Lift Off (Sonya);Left,[BP]
+Hit the Deck (Sonya);Left,[BK]
+Advance Force (Sonya);[FP],[FP],[BP]
+Fierce Assault (Sonya);[FP],[FP],[FK]
+Drop Zone (Sonya);[BP],[FP],Left,[FK]
+Ground Control (Sonya);[BP],[FP],Left,[BK]
+Power Rush (Sonya);Right,[BP],Left,[BP],[BK]
+Mess Hall (Sonya);Left,[BP],[FP],Right,[BP]
+Play Time (Sonya);[FK],[FP],[BP]
+Beat Up (Sonya);[FK],[FP],[BK]
+Pull Out (Sonya);[BK],[BK]
+Switch Off (Sonya);Left,[BP],Tag
+Fatal Kiss (Sonya);Down,Left,[FP],Tag
+Windmill (Sonya);Down,Right,[FK],Tag
+Lick My Boots (Sonya);[FP],[FP],Tag
+Special Forced (Sonya);[BP],[FP],Tag
+Tough Love (Sonya);Right,[BP],Left,[BP],Tag
+Honorable Discharge (Sonya);[FK],[FP],Tag
+Enery Ring Blast (Sonya);Left,Right,[BP]
+Leg Grab (Sonya);Left,Right,[BK]
+Kiss (Sonya);Down,Left,[FP]
+Arc Kick (Sonya);Down,Left,[BK]
+Kartwheel (Sonya);Down,Right,[FK]
+Air Drop (Sonya);Down,[BK]
+Air Throw (Sonya);Throw
+Rings of Justice (Sonya);Left,Right,[BP],Block
+Krazy Legs (Sonya);Left,Right,[BK],Block
+Deadly Kiss (Sonya);Down,Left,[FP],Block
+Arc Wave (Sonya);Down,Left,[BK],Block
+Kartwheel Bash (Sonya);Down,Right,[FK],Block
+Air Strikes (Sonya);Down,[BK],Block
+SF Beat Up (Sonya);Flip Stance,Block
+Scissor Split (Sonya);Down,Down,Left,Right,[FP]
+Kut-Throat (Sonya);Down,Left,Right,Left,[BK]
+Stage Fatality (Sonya);Left,Right,Down,[BP]
+Babality (Sonya);Down,Down,Right,[FK]
+Cross Hook (Stryker);Left,[FP]
+Baton Twirl (Stryker);Left,[BP]
+Uppercut (Stryker);Down,[BP]
+Sweep (Stryker);Left,[BK]
+Cop Out (Stryker);[FP],[BP]
+Dispatched (Stryker);[FP],[FP],[BK]
+Beat Down (Stryker);Left,[FP],[BP],[BP]
+Pain Patrol (Stryker);[BP],[FK],[BP]
+The Heat (Stryker);Left,[BP],[BP]
+Aggravated Assault (Stryker);Left,[BP],Right,[BP]
+Spread 'Em (Stryker);Left,[FP],Left,[BK]
+Serve and Protect (Stryker);Left,[FP],[BP],[BP],Tag
+Remain Silent (Stryker);Left,[BP],Right,[BP],Tag
+Affirmative (Stryker);Left,[FK],[BP],Tag
+We Aim to Please (Stryker);[FP],[FP],Tag
+Officer Friendly (Stryker);Left,[FP],[BP],Tag
+Don't Move! (Stryker);[BP],[FK],Tag
+Assault and Battery (Stryker);Left,[FK],[BP],Tag
+Baton Sweep (Stryker);Down,Left,[BK]
+High Grenade Toss (Stryker);Down,Left,[BP]
+Low Grenade Toss (Stryker);Down,Left,[FP]
+Gun Shot (Stryker);Left,Right,[FP]
+Roll Toss (Stryker);Left,Right,[BK]
+Baton Bash (Stryker);Down,Left,[BK],Block
+High (Stryker);Down,Left,[BP],Block
+Low (Stryker);Down,Left,[FP],Block
+Bang Bang (Stryker);Left,Right,[FP],Block
+Roll Out (Stryker);Left,Right,[BK],Block
+Busted (Stryker);Flip Stance,Block
+Time Served (Stryker);Right,Down,Right,[FK]
+Have a Blast (Stryker);Down,Right,Down,Right,Block
+Stage Fatality (Stryker);Right,Up,Up,[BK]
+Babality (Stryker);Down,Right,Down,Left,[BP]
+Swipe Uppercut (Sub-Zero);Down,[BP]
+Force Claws (Sub-Zero);Left,[BP]
+Big Leg (Sub-Zero);Right,[BP]
+Sweep (Sub-Zero);Left,[BK]
+Frosty (Sub-Zero);[FP],[FP],[FP]
+Cold Feet (Sub-Zero);[FP],[FK],Right,[BK]
+Artic Blast (Sub-Zero);[FP],[FK],Left,[BK]
+Ice Pick (Sub-Zero);Left,[FP],[BP],[FP]
+Ice Cold (Sub-Zero);Left,[FP],[BP],[BK]
+Frost Bitten (Sub-Zero);[BP],[FP],[BP]
+Ices Up (Sub-Zero);[BP],[FP],[BK]
+TUndra Shoo (Sub-Zero);[FK],[BK],[FP],[BP]
+Winter Blade (Sub-Zero);[BP],[BP],[BP]
+Cold Steel (Sub-Zero);[BP],[BP],[BK]
+Chill Out (Sub-Zero);[FK],Right,[BK]
+Absolute Zero (Sub-Zero);[BP],[FP],Tag
+Freezer Burn (Sub-Zero);[FP],[FK],Tag
+Arctic Assault (Sub-Zero);Left,[FP],[BP],Tag
+Ability to Freeze (Sub-Zero);[BP],[BP],Tag
+Iceball (Sub-Zero);Down,Right,[FK]
+Slide (Sub-Zero);Left,Right,[BK]
+Ice Clone (Sub-Zero);Down,Left,[FP]
+Ice Puddle (Sub-Zero);Down,Left,[FK]
+Ice Beam (Sub-Zero);Down,Right,[FK],Block
+Power Slide (Sub-Zero);Left,Right,[BK],Block
+Ice Statue (Sub-Zero);Down,Left,[FP],Block
+Ground Freeze (Sub-Zero);Down,Left,[FK],Block
+Deep Freeze (Sub-Zero);Flip Stance,Block
+Have an Ice Day (Sub-Zero);Left,Right,Down,Right,[BK]
+Spinal Smash (Sub-Zero);Down,Left,Down,Right,[BP]
+Stage fatality (Sub-Zero);Right,Down,Left,[BP]
+Babality (Sub-Zero);Down,Left,Down,[BK]
+Klassic Fatality (Sub-Zero);Right,Down,Right,[BP]
+Uppercut (Cyber Sub-Zero);Down,[BP]
+Straight Slab (Cyber Sub-Zero);Left,[FP]
+Leftfist (Cyber Sub-Zero);Right,[FP]
+Chest Swipe (Cyber Sub-Zero);Left,[BP]
+Head Chop (Cyber Sub-Zero);Right,[BP]
+Spinning Low Kick (Cyber Sub-Zero);Left,[FK]
+Left Spin Kick (Cyber Sub-Zero);Right,[BK]
+Splits Attack (Cyber Sub-Zero);Up,[BK]
+Sweep (Cyber Sub-Zero);Left,[BK]
+Cyborg Assault (Cyber Sub-Zero);[FP],[FP],[FP]
+Automation (Cyber Sub-Zero);[FP],[FP],[BP]
+Drive Power (Cyber Sub-Zero);[FP],[FP],Right,[BK]
+Freezing Pain (Cyber Sub-Zero);Right,[FP],[BK]
+Cyro Bash (Cyber Sub-Zero);Right,[BP],[BP],[FP]
+Frost (Cyber Sub-Zero);Left,[FP],[BP]
+Wildcard (Cyber Sub-Zero);Left,[BP],[BP]
+Upload (Cyber Sub-Zero);Left,[BP],[BK]
+Nano Smash (Cyber Sub-Zero);[BP],[FP],[FP],[BP]
+System Error (Cyber Sub-Zero);[FK],[FK],[BP]
+Reboot (Cyber Sub-Zero);[FK],[BK]
+Blizzard (Cyber Sub-Zero);Left,[FK],[BP],[FP]
+Dual Core (Cyber Sub-Zero);[FK],[BK],Tag
+Meltdown (Cyber Sub-Zero);Left,[FK],[FP],Tag
+Dry Ice (Cyber Sub-Zero);[FP],[FP],Tag
+Glacier (Cyber Sub-Zero);[BP],[FP],Tag
+Ice Over (Cyber Sub-Zero);Right,[BP],[BP],Tag
+Ice Ball (Cyber Sub-Zero);Down,Right,[FP]
+Close (Cyber Sub-Zero);Left,Left,[FK]
+Medium (Cyber Sub-Zero);Right,Right,[FK]
+Far (Cyber Sub-Zero);Left,Left,Right,[FK]
+Slide (Cyber Sub-Zero);Left,Right,[BK]
+Teleport (Cyber Sub-Zero);Down,Left,[FP]
+Ice Parry (Cyber Sub-Zero);Down,Left,[BP]
+Divekick (close) (Cyber Sub-Zero);Down,[FK]
+Divekick (Far) (Cyber Sub-Zero);Down,[BK]
+Ice Beam (Cyber Sub-Zero);Down,Right,[FP],Block
+Close (Cyber Sub-Zero);Left,Left,[FK],Block
+Medium (Cyber Sub-Zero);Right,Right,[FK],Block
+Far (Cyber Sub-Zero);Left,Left,Right,[FK],Block
+Cyber-Slide (Cyber Sub-Zero);Left,Right,[BK],Block
+Bangport (Cyber Sub-Zero);Down,Left,[FP],Block
+Frozen Parry (Cyber Sub-Zero);Down,Left,[BP],Block
+Powerkick (close) (Cyber Sub-Zero);Down,[FK],Block
+Powerkick (far) (Cyber Sub-Zero);Down,[BK],Block
+Cool Down (Cyber Sub-Zero);Flip Stance,Block
+Kold Fusion (Cyber Sub-Zero);Down,Left,Down,Right,[BP]
+Brain Freeze (Cyber Sub-Zero);Down,Down,Left,Down,[FP]
+Stage Fatality (Cyber Sub-Zero);Down,Down,Up,Block
+Babality (Cyber Sub-Zero);Down,Left,Right,Block
+Uppercut (Skarlet);Down,[BP]
+Dagger Slash (Skarlet);Left,[FP]
+Rising Blade (Skarlet);Left,[BP]
+Left Fist (Skarlet);Right,[BP]
+Upper Knee (Skarlet);Right,[FK]
+Roundhouse (Skarlet);Right,[BK]
+Lifting Leg (Skarlet);Up,[FK]
+Sweep (Skarlet);Left,[BK]
+Krimson Bash (Skarlet);[FP],[FP],[BP]
+Red Pain (Skarlet);[FP],[FP],[BK]
+Blood Clot (Skarlet);Left,[FP],Right,[FK]
+Coagulation (Skarlet);Left,[FP],[FP],[FK]
+Bad Blood (Skarlet);Left,[FP],[FP],Right,[BK]
+Bloody Murder (Skarlet);Left,[FP],[FP],Left,[BK]
+Bloodshed (Skarlet);Left,[BP],[BK]
+Punishment (Skarlet);[BP],[FP],[BP]
+Bloodshot (Skarlet);[BP],[FK]
+Flesh & Blood (Skarlet);Right,[BP],[FP],[BP],[FP],[BP]
+Blood Boil (Skarlet);Right,[FK],[FP],[BP]
+Slaughter (Skarlet);Right,[FK],[FK]
+Carnage (Skarlet);Up,[FK],[BK]
+Thicker Than Water (Skarlet);Right,[BK],[FK]
+Transfustion (Skarlet);Left,[FP],[FP],Right,[BK],Tag
+Blood & Tears (Skarlet);Right,[BP],[FP],[BP],[FP],[BP],Tag
+Butchery (Skarlet);Right,[FK],[FP],[BP],Tag
+Warfare (Skarlet);Up,[FK],Tag
+Bloodthirsy (Skarlet);[FP],[FP],Tag
+Krimson Blades (Skarlet);Left,[FP],[FP],Tag
+Judgement (Skarlet);[BP],[FP],Tag
+Blood & Guts (Skarlet);Right,[BP],[FP],Tag
+Bloody Hell (Skarlet);Right,[FK],[FP],Tag
+Up Slash (Skarlet);Down,Right,[BP]
+Down Slash (Skarlet);Down,Left,[BP]
+Blood Drop (Skarlet);Down,Left,[BK]
+Red Dash (Skarlet);Down,Right,[FK]
+Slide (Skarlet);[BK]
+Blood Ball (Skarlet);Right,Down,Left,[FP]
+Dagger Toss (Skarlet);Down,Right,[FP]
+Air Dagger (Close) (Skarlet);Down,Left,[FP]
+Air Dagger (Far) (Skarlet);Down,Right,[FP]
+Duel Up Slash (Skarlet);Down,Right,[BP],Block
+Duel Down Slash (Skarlet);Down,Left,[BP],Block
+Blood Stomp (Skarlet);Down,Left,[BK],Block
+Krimson Dash (Skarlet);Down,Right,[FK],Block
+Red Slide (Skarlet);[BK]
+Dagger Toss (Skarlet);Down,Right,[FP],Block
+Tri Air Dagger (Skarlet);Down,Left,[FP],Block
+Tri Air Dagger (Skarlet);Down,Right,[FP],Block
+Blood Bank (Skarlet);Flip Stance,Block
+Blood Bath (Skarlet);Down,Left,Down,Down,Block
+Make It Rain (Skarlet);Right,Left,Down,Down,[BK]
+Stage Fatality (Skarlet);Right,Left,Right,[FP]
+Babality (Skarlet);Down,Left,Down,Right,[BP]
+Uppercut (Kenshi);Down,[BP]
+Blade Stab (Kenshi);Left,[BP]
+Blade Swipe (Kenshi);Right,[BP]
+Shin Kick (Kenshi);Right,[FK]
+Snap Kick (Kenshi);Right,[BK]
+Windmill (Kenshi);Up,[BK]
+Sweep (Kenshi);Left,[BK]
+Telekinetic Rush (Kenshi);[FP],[FP],[FP]
+Blind Justice (Kenshi);[FP],[FP],[BP]
+Off Balance (Kenshi);[FP],[FP],[BK]
+Heightened Senses (Kenshi);[BP],[FP],Left,[BP]
+Stolen Soul (Kenshi);[BP],[FP],Right,[BK]
+Absentminded (Kenshi);Right,[BP],[BP],Left,[FP]
+Shortsighted (Kenshi);Right,[BP],[BP],Left,[BP]
+Brainpower (Kenshi);Right,[FK],[BP]
+Concentration (Kenshi);[BP],[FP],Left,[BP],Tag
+Grey Matter (Kenshi);Right,[BP],[BP],Left,[FP],Tag
+Blind Fury (Kenshi);Right,[FK],[BP],Tag
+Blind Swordsman (Kenshi);[BP],[FP],Tag
+Farsighted (Kenshi);Right,[BP],[BP],Tag
+Spirit Charge (Kenshi);Left,Right,[BP]
+Rising Karma (Kenshi);Down,Left,[FP]
+Close (Kenshi);Down,Left,[BK]
+Medium (Kenshi);Down,Right,[BK]
+Far (Kenshi);Down,Left,Right,[BK]
+Tele-Flury (Kenshi);Left,Right,[FK]
+Blade Reflect (Kenshi);Down,Left,[BP]
+Spirit Vengeance (Kenshi);Left,Right,[BP],Block
+Karma Eruption (Kenshi);Down,Left,[FP],Block
+Close (Kenshi);Down,Left,[BK],Block
+Medium (Kenshi);Down,Right,[BK],Block
+Far (Kenshi);Down,Left,Right,[BK],Block
+Tele-Beatdown (Kenshi);Left,Right,[FK],Block
+Blade Absorb (Kenshi);Down,Left,[BP],Block
+Soul Blade (Kenshi);Flip Stance,Block
+Scatterbrained (Kenshi);Up,Down,Up,Down,Block
+Split Ends (Kenshi);Left,Right,Down,Right,[BP]
+Stage Fatality (Kenshi);Down,Right,Down,[FK]
+Babality (Kenshi);Down,Left,Down,[FP]
+Uppercut (Rain);Down,[BP]
+Axe Hand (Rain);Left,[FP]
+Side Swipe (Rain);Left,[BP]
+Stepping Sidekick (Rain);Left,[FK]
+Sweep (Rain);Left,[BK]
+It Pours (Rain);[FP],[FP]
+Right as Rain (Rain);[FP],[BP],Right,[BK]
+Dehydrate (Rain);[BP],[BK]
+Watery Grave (Rain);Left,[BP],[FK]
+Waterfall (Rain);Left,[BP],[FP],[BP]
+Spill Over (Rain);[FK],[FK],[BK]
+Moisturize Me (Rain);[BK],[FK],Left,[BK]
+Thicker Then Water (Rain);[FP],[BP],Right,[BK],Tag
+Rain Or Shine (Rain);Left,[BP],[FP],[BP],Tag
+Rain And Suffering (Rain);[FP],[FP],Tag
+No Rain,No Gain (Rain);[FK],[FK],Tag
+Dead In The Water (Rain);[BK],[FK],Tag
+Water Port (Rain);Down,Up
+Super Kick (Rain);Down,Left,[BK]
+Water Bubble (Rain);Down,Right,[FK]
+Geyser Kick (Rain);Down,Left,[FK]
+Lightning (Rain);Down,Left,[BP]
+Aqua Splash (Rain);Left,Right,[FP]
+H2O Boost (Rain);Left,Down,Right,[FP]
+Aqua-Port (Rain);Down,Up,Block
+Power Kick (Rain);Down,Left,[BK],Block
+Hydro Bubble (Rain);Down,Right,[FK],Block
+Thermal Spring (Rain);Down,Left,[FK],Block
+Thunder Storm (Rain);Down,Left,[BP],Block
+Aqua Blast (Rain);Left,Right,[FP],Block
+H2O Buff (Rain);Left,Down,Right,[FP],Block
+Rain Check (Rain);Flip Stance,Block
+Bubble Burst (Rain);Left,Right,Down,Left,Block
+Does it Sting (Rain);Up,Down,Left,Right,[BP]
+Stage Fatality (Rain);Right,Down,Right,[BK]
+Babality (Rain);Left,Down,Right,[FK]
+Uppercut (Freddy Krueger);Down,[BP]
+Razor Slash (Freddy Krueger);Left,[FP]
+Double Swipe (Freddy Krueger);Left,[BP]
+Hell Slice (Freddy Krueger);Right,[BP]
+Low Blow (Freddy Krueger);Left,[FK]
+Hop Kick (Freddy Krueger);Up,[FK]
+Big Knee (Freddy Krueger);Right,[BK]
+Sweep (Freddy Krueger);Left,[BK]
+Nightmare Stance (Freddy Krueger);Down,Left,[BP]
+Open Wide (Freddy Krueger);[FP]
+Claw Slam (Freddy Krueger);[BP]
+Low Slash (Freddy Krueger);[FK]
+Cancel (Freddy Krueger);[BK]
+Split You in Two (Freddy Krueger);[FP],[FP],[FP]
+Skin The Cat (Freddy Krueger);Left,[FP],[BP],[BP]
+In Your Dreams (Freddy Krueger);Left,[FP],[BP],Up,[FP]
+Kung Fu This Bitch (Freddy Krueger);[BP],[BP],[FP],[BP]
+I Am Eternal (Freddy Krueger);Right,[BP],[FP],Left,[FK]
+Never Sleep Again (Freddy Krueger);Right,[BP],[FP],[BK],
+I Love Screamers (Freddy Krueger);Left,[BP],[BK]
+Come To Freddy (Freddy Krueger);[FK],[FK]
+Ungrateful Piggy (Freddy Krueger);Left,[FK],[FK]
+Coming For You (Freddy Krueger);Right,[BK],[FK]
+Playing With Power (Freddy Krueger);Right,[BK],[BP],[FP]
+How Sweet Fresh Meat (Freddy Krueger);Left,[FP],[BP],Up,[FP],Tag
+Tag You're it (Freddy Krueger);Up,[FK],Tag
+Great Graphics (Freddy Krueger);Right,[BK],[BP],[FP],Tag
+Party's Just Starting (Freddy Krueger);[FP],[FP],Tag
+Always Room For More (Freddy Krueger);Left,[FP],[BP],Tag
+Meet Your Maker (Freddy Krueger);Right,[BP],[FP],Tag
+Now You Die (Freddy Krueger);Right,[BK],[BP],Tag
+Close (Freddy Krueger);Down,Left,[FP]
+Medium (Freddy Krueger);Down,Right,[FP]
+Far (Freddy Krueger);Down,Left,Right,[FP]
+Sweet Dreams (Freddy Krueger);Down,Right,[BK]
+Glove Toss (Freddy Krueger);Left,Right,[BP]
+Freddy Fingers (Freddy Krueger);Down,Left,[BP]
+Dream Shift Away (Freddy Krueger);Down,Left,[FK]
+Dream Shift Towards (Freddy Krueger);Down,Right,[FK]
+Hell Blast (Freddy Krueger);Down,Left,[FP],Block
+Deep Sleep (Freddy Krueger);Down,Right,[BK],Block
+Power Glove Toss (Freddy Krueger);Left,Right,[BP],Block
+Freddy's Edge (Freddy Krueger);Down,Left,[BP],Block
+Hell Shift Away (Freddy Krueger);Down,Left,[FK],Block
+Hell Shift Towards (Freddy Krueger);Down,Right,[FK],Block
+What a Rush (Freddy Krueger);Flip Stance,Block
+Stage Fatality (Freddy Krueger);Right,Down,Down,[FK]
+Babality (Freddy Krueger);Left,Right,Down,[FP]
