@@ -58,10 +58,9 @@ let () =
 	if not (check_Arg argv) then 
 		exit 1;
 
-	(*let automate = { Trie.children = []; values = [] } in
-	let automate = train_Automate fd automate in*)
-	
-	let window = init_Window 400 200 in
+	(* MAKE BYTE IS NOT WORKING *)
+
+	(* let window = init_Window 400 200 in
 	
 	let rec loop () =
 		match get_Key () with
@@ -75,9 +74,9 @@ let () =
 		loop ();
 
 	Tsdl.Sdl.destroy_window window;
-  	Tsdl.Sdl.quit ()
+  	Tsdl.Sdl.quit () *)
 
-	(*let automate = Automate.create_Automate argv.(1) in
+	let automate = Automate.create_Automate argv.(1) in
 	List.iter print_endline automate.values;
 	let next_a = Trie.next_state automate " a" in
     List.iter print_endline next_a.values;
@@ -87,5 +86,4 @@ let () =
 	print_endline "";
 	let end_a = Trie.next_state end_b " a" in
     List.iter print_endline end_a.values;
-	print_endline "";*)
-
+	print_endline "";

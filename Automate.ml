@@ -1,3 +1,6 @@
+let reg_line = "^[^,;]+;[^,;]+\\(,[^,;]+\\)*$"
+let regex = Str.regexp reg_line
+
 let open_File file_name =
 	try
 		let fd = open_in file_name in
@@ -7,13 +10,19 @@ let open_File file_name =
 		None
 
 let train_Automate line automate =
-	(* Parse la line *)
+	if not (Str.string_match regex line 0) then
+		begin
+			print_endline ("Error : '" ^ line ^ "' is malformated");
+			automate
+		end
+	else begin
 	let split = String.split_on_char ';' line in
 	match split with
 	| [] -> automate
 	| head :: tail ->
 		let automate = Trie.add_node automate (String.split_on_char ',' (List.hd tail)) head in
 		automate
+	end
 
 let create_Automate file_name = 
 	let automate = { Trie.children = []; values = [] } in
