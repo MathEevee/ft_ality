@@ -18,12 +18,12 @@ O_FILES += main.o
 CMX_FILES = $(OBJS:=.cmx)
 CMX_FILES += main.cmx
 
-OCAMLC = ocamlc
-OCAMLOPT = ocamlopt
+OCAMLC = ocamlfind ocamlc
+OCAMLOPT = ocamlfind ocamlopt
 OCAMLDEP = ocamldep
 
-STR_LIB = str.cma
-STR_LIB_NATIVE = str.cmxa
+STR_LIB = str
+TSDL_LIB = tsdl
 
 CLEAR = "\033[0K"
 CR = "\r"$(CLEAR)
@@ -34,13 +34,13 @@ all: native
 byte: $(NAME).occ
 
 $(NAME).occ: $(CMO_FILES)
-	@$(OCAMLC) -o $@ $(STR_LIB) $^
+	@$(OCAMLC) -linkpkg -package $(STR_LIB),$(TSDL_LIB) -o $@ $^
 	@printf $(CR)"\e[1m\e[38;5;74m>>> $(NAME).occ is created ! <<<\e[0m\n"
 
 native: $(NAME).lopt
 
 $(NAME).lopt: $(CMX_FILES)
-	@$(OCAMLOPT) -o $@ $(STR_LIB_NATIVE) $^
+	@$(OCAMLOPT) -linkpkg -package $(STR_LIB),$(TSDL_LIB) -thread -o $@ $^
 	@printf $(CR)"\e[1m\e[38;5;74m>>> $(NAME).lopt is created ! <<<\e[0m\n"
 
 %.cmi: %.mli
@@ -48,11 +48,11 @@ $(NAME).lopt: $(CMX_FILES)
 	@printf $(CR)"\e[2m\e[38;5;32m>>>\e[0m $(BASENAME)%s \e[2m\e[38;5;32m<<<\e[0m"$(CLEAR)
 
 %.cmo: %.ml $(CMI_FILES)
-	@$(OCAMLC) -c $(STR_LIB) $<
+	@$(OCAMLC) -c -package $(STR_LIB),$(TSDL_LIB) $<
 	@printf $(CR)"\e[2m\e[38;5;32m>>>\e[0m $(BASENAME)%s \e[2m\e[38;5;32m<<<\e[0m"$(CLEAR)
 
 %.cmx: %.ml $(CMI_FILES)
-	@$(OCAMLOPT) -c $(STR_LIB_NATIVE) $< 
+	@$(OCAMLOPT) -c -package $(STR_LIB),$(TSDL_LIB) -thread $< 
 	@printf $(CR)"\e[2m\e[38;5;32m>>>\e[0m $(BASENAME)%s \e[2m\e[38;5;32m<<<\e[0m"$(CLEAR)
 
 %.o: %.ml
