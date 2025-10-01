@@ -34,7 +34,7 @@ all: native
 byte: $(NAME).occ
 
 $(NAME).occ: $(CMO_FILES)
-	@$(OCAMLC) -linkpkg -package $(STR_LIB),$(TSDL_LIB) -o $@ $^
+	@$(OCAMLC) -linkpkg -package $(STR_LIB),$(TSDL_LIB) -thread -o $@ $^
 	@printf $(CR)"\e[1m\e[38;5;74m>>> $(NAME).occ is created ! <<<\e[0m\n"
 
 native: $(NAME).lopt
@@ -48,7 +48,7 @@ $(NAME).lopt: $(CMX_FILES)
 	@printf $(CR)"\e[2m\e[38;5;32m>>>\e[0m $(BASENAME)%s \e[2m\e[38;5;32m<<<\e[0m"$(CLEAR)
 
 %.cmo: %.ml $(CMI_FILES)
-	@$(OCAMLC) -c -package $(STR_LIB),$(TSDL_LIB) $<
+	@$(OCAMLC) -c -package $(STR_LIB),$(TSDL_LIB) -thread $<
 	@printf $(CR)"\e[2m\e[38;5;32m>>>\e[0m $(BASENAME)%s \e[2m\e[38;5;32m<<<\e[0m"$(CLEAR)
 
 %.cmx: %.ml $(CMI_FILES)
