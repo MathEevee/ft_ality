@@ -181,7 +181,7 @@ Sweep (Jax);Left,[BK]
 Triple Slam (Jax);Throw,[FP],[BK]
 Four slams (Jax);Throw,[FP],[BK],[BP],[FK]
 Five slams (Jax);Throw,[FP],[BK],[BP],[FK],[BP],[BK]
-Six slams (Jax);Throw,[FP],[BK],[BP],[FK],[BP],[BK],
+Six slams (Jax);Throw,[FP],[BK],[BP],[FK],[BP],[BK]
 Major Force (Jax);[FP],[BP],[FK]
 Boot Kamp (Jax);Left,[FP],[BP],[BK]
 Active Duty (Jax);[BP],[FP]
@@ -1215,7 +1215,7 @@ Moisturize Me (Rain);[BK],[FK],Left,[BK]
 Thicker Then Water (Rain);[FP],[BP],Right,[BK],Tag
 Rain Or Shine (Rain);Left,[BP],[FP],[BP],Tag
 Rain And Suffering (Rain);[FP],[FP],Tag
-No Rain,No Gain (Rain);[FK],[FK],Tag
+No Rain_No Gain (Rain);[FK],[FK],Tag
 Dead In The Water (Rain);[BK],[FK],Tag
 Water Port (Rain);Down,Up
 Super Kick (Rain);Down,Left,[BK]
@@ -1254,7 +1254,7 @@ Skin The Cat (Freddy Krueger);Left,[FP],[BP],[BP]
 In Your Dreams (Freddy Krueger);Left,[FP],[BP],Up,[FP]
 Kung Fu This Bitch (Freddy Krueger);[BP],[BP],[FP],[BP]
 I Am Eternal (Freddy Krueger);Right,[BP],[FP],Left,[FK]
-Never Sleep Again (Freddy Krueger);Right,[BP],[FP],[BK],
+Never Sleep Again (Freddy Krueger);Right,[BP],[FP],[BK]
 I Love Screamers (Freddy Krueger);Left,[BP],[BK]
 Come To Freddy (Freddy Krueger);[FK],[FK]
 Ungrateful Piggy (Freddy Krueger);Left,[FK],[FK]
