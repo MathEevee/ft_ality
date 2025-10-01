@@ -58,9 +58,7 @@ let () =
 	if not (check_Arg argv) then 
 		exit 1;
 
-	(* MAKE BYTE IS NOT WORKING *)
-
-	(* let window = init_Window 400 200 in
+	(*let window = init_Window 400 200 in
 	
 	let rec loop () =
 		match get_Key () with
@@ -74,9 +72,10 @@ let () =
 		loop ();
 
 	Tsdl.Sdl.destroy_window window;
-  	Tsdl.Sdl.quit () *)
+  	Tsdl.Sdl.quit ()*)
 
-	let automate = Automate.create_Automate argv.(1) in
+	let (automate, alphabet) = Automate.create_Automate argv.(1) in
+	List.iter print_endline alphabet;
 	List.iter print_endline automate.values;
 	let next_a = Trie.next_state automate " a" in
     List.iter print_endline next_a.values;
