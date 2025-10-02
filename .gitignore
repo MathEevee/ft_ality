@@ -3,3 +3,4 @@ ft_ality.occ
 *.cmx
 *.o
 *.cmo
+*.cmi

@@ -6,7 +6,7 @@ let open_File file_name =
 		let fd = open_in file_name in
 		Some fd
 	with Sys_error msg ->
-		print_endline ("Error : " ^ msg);
+		Print.print_Error ("Error : " ^ msg);
 		None
 
 let merge_Alphabet l1 l2 =
@@ -17,7 +17,7 @@ let merge_Alphabet l1 l2 =
 let train_Automate line automate alphabet =
 	if not (Str.string_match regex line 0) then
 		begin
-			print_endline ("Error : '" ^ line ^ "' is malformated");
+			Print.print_Error ("Error : '" ^ line ^ "' is malformated");
 			(automate, alphabet)
 		end
 	else begin
