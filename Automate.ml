@@ -38,6 +38,7 @@ let create_Automate file_name =
 		let rec read_Line automate alphabet =
 			try
 				let line = input_line fd in
+				print_endline line;
 				let (auto, alpha) = train_Automate line automate alphabet in
 					read_Line auto alpha
 		with End_of_file -> close_in fd;
