@@ -1,6 +1,7 @@
 Move A;a
 Move C;a,b,a
 Move D;b,a
-Move E;a
+Move E;a,c
 Move F;a,a
 Move G;a,b,a
+Move H;c,a,b,a

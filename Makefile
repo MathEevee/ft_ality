@@ -1,6 +1,6 @@
 NAME = ft_ality
 
-OBJS = Print Trie Automate Keyboard
+OBJS = Print Trie Keyboard Automate
 
 MLI_FILES += $(OBJS:=.mli)
 
