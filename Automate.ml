@@ -57,11 +57,12 @@ let launch_Automate automate key_mapping =
 				let curr_state = Trie.next_state curr_state sym in
 				let combo = combo ^ "," ^ sym in
 				Print.print_Combo combo;
-				List.iter print_endline curr_state.values;
+				Print.combo_Found curr_state.values;
 				if curr_state.children = [] then begin
 					print_endline "\x1b[38;5;140mNo more possible combo\x1b[0m";
 					in_Automate automate alphabet "" end
-				else
+				else begin
 					in_Automate curr_state alphabet combo
+					end
 	in 
 	in_Automate automate key_mapping ""
