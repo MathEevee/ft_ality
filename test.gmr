@@ -1,4 +1,5 @@
 Move A;a
+Move B;a,b,b
 Move C;a,b,a
 Move D;b,a
 Move E;a,c
