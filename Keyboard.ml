@@ -35,7 +35,7 @@ let create_Key_Mapping alphabet =
 	let key_mapping = [] in
 	let rec fill_Key_Mapping rest_alphabet key_mapping =
 		match rest_alphabet with
-		| [] -> Some key_mapping
+		| [] -> Some (List.rev key_mapping)
 		| head :: tail ->
 			print_endline ("Please enter a key to assign to : " ^ head);
 			match key_Loop ()  with
@@ -47,6 +47,6 @@ let create_Key_Mapping alphabet =
 					fill_Key_Mapping rest_alphabet key_mapping
 				| None ->
 					Print.print_Assigned (head ^ " is now assigned to : " ^ (Tsdl.Sdl.get_key_name assigned_key));
-					let key_mapping = (assigned_key, head ) :: key_mapping in
+					let key_mapping = (assigned_key, head) :: key_mapping in
 					fill_Key_Mapping tail key_mapping
 	in fill_Key_Mapping alphabet key_mapping

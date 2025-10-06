@@ -12,7 +12,7 @@ let rec add_node trie combination res_combination =
 		let child =
 			match List.assoc_opt head trie.children with
 			| Some t -> t
-			| None -> { children = []; values = []; }
+			| None -> empty
 		in 
 			let child_trie = add_node child tail res_combination in
 			let new_children = (head, child_trie) :: List.remove_assoc head trie.children
@@ -21,4 +21,4 @@ let rec add_node trie combination res_combination =
 let next_state trie symbol =
 	match List.assoc_opt symbol trie.children with
 		| Some t -> t
-		| None -> { children = []; values = []; }
+		| None -> empty

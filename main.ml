@@ -1,17 +1,14 @@
 let check_Arg argv =
 	let argc = Array.length argv in
-	if argc = 1 then
-		begin
-			Print.print_Error "Usage : ./ft_ality <grammar_file>";
-			false
-		end
-	else if argc > 2 then
-		begin
-			Print.print_Error "Error : Too many arguments";
-			false
-		end
-	else
+	match argc with
+	| 1 ->
+		Print.print_Error "Usage : ./ft_ality <grammar_file>";
+		false
+	| 2 ->
 		true
+	| _ ->
+		Print.print_Error "Error : Too many arguments";
+		false
 
 let init_Window width height =
 	match Tsdl.Sdl.init Tsdl.Sdl.Init.video with

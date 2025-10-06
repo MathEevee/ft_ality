@@ -15,22 +15,20 @@ let merge_Alphabet l1 l2 =
   ) l1 l2
 
 let train_Automate line automate alphabet =
-	if not (Str.string_match regex line 0) then
-		begin
-			Print.print_Error ("Error : '" ^ line ^ "' is malformated");
-			(automate, alphabet)
-		end
-	else begin
-	let split = Str.split (Str.regexp "[;,]") line in
-	match split with
-	| [] -> (automate, alphabet)
-	| head :: tail ->
-		let automate = Trie.add_node automate tail head in
-		(automate, merge_Alphabet alphabet tail)
-	end
+	match (Str.string_match regex line 0) with
+	| false ->
+		Print.print_Error ("Error : '" ^ line ^ "' is malformated");
+		(automate, alphabet)
+	| true ->	
+		let split = Str.split (Str.regexp "[;,]") line in
+		match split with
+		| [] -> (automate, alphabet)
+		| head :: tail ->
+			let automate = Trie.add_node automate tail head in
+			(automate, merge_Alphabet alphabet tail)
 
 let create_Automate file_name = 
-	let automate = { Trie.children = []; values = [] } in
+	let automate = Trie.empty in
 	let alphabet = [] in
 	match open_File file_name with
 	| None -> (automate, alphabet)
@@ -41,7 +39,7 @@ let create_Automate file_name =
 				let (auto, alpha) = train_Automate line automate alphabet in
 					read_Line auto alpha
 		with End_of_file -> close_in fd;
-			(automate, alphabet)
+			(automate, List.rev alphabet)
 		in read_Line automate alphabet
 
 let launch_Automate automate key_mapping =
@@ -58,11 +56,10 @@ let launch_Automate automate key_mapping =
 				let combo = combo ^ "," ^ sym in
 				Print.print_Combo combo;
 				Print.print_Combo_Found curr_state.values;
-				if curr_state.children = [] then begin
+				match curr_state.children with
+				| [] ->
 					print_endline "\x1b[38;5;140mNo more possible combo\x1b[0m";
-					in_Automate automate alphabet "" end
-				else begin
+					in_Automate automate alphabet "" 
+				| _ ->
 					in_Automate curr_state alphabet combo
-					end
-	in 
-	in_Automate automate key_mapping ""
+	in in_Automate automate key_mapping ""
