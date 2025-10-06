@@ -27,7 +27,7 @@ let train_Automate line automate alphabet =
 			let automate = Trie.add_node automate tail head in
 			(automate, merge_Alphabet alphabet tail)
 
-let create_Automate file_name = 
+let create_Automate file_name =
 	let automate = Trie.empty in
 	let alphabet = [] in
 	match open_File file_name with

@@ -13,7 +13,7 @@ let rec add_node trie combination res_combination =
 			match List.assoc_opt head trie.children with
 			| Some t -> t
 			| None -> empty
-		in 
+		in
 			let child_trie = add_node child tail res_combination in
 			let new_children = (head, child_trie) :: List.remove_assoc head trie.children
 			in { trie with children = new_children }

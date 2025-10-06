@@ -47,7 +47,7 @@ let print_Combo combo =
 	let rec print_Combo_split split_combo =
 		match split_combo with
 		| [] -> ()
-		| head :: [] -> 
+		| head :: [] ->
 			print_endline ("\x1b[38;5;147m" ^ head ^ "\x1b[0m")
 		| head :: tail ->
 			print_string "\x1b[38;5;147m";

@@ -52,7 +52,7 @@ $(NAME).lopt: $(CMX_FILES)
 	@printf $(CR)"\e[2m\e[38;5;32m>>>\e[0m $(BASENAME)%s \e[2m\e[38;5;32m<<<\e[0m"$(CLEAR)
 
 %.cmx: %.ml $(CMI_FILES)
-	@$(OCAMLOPT) -c -package $(STR_LIB),$(TSDL_LIB) -thread $< 
+	@$(OCAMLOPT) -c -package $(STR_LIB),$(TSDL_LIB) -thread $<
 	@printf $(CR)"\e[2m\e[38;5;32m>>>\e[0m $(BASENAME)%s \e[2m\e[38;5;32m<<<\e[0m"$(CLEAR)
 
 %.o: %.ml
