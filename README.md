@@ -73,20 +73,20 @@ Exemples :
 | **Throw**    | ⌨️ T |
 ---
 
-<img width="161" height="251" alt="Screenshot from 2025-11-18 09-09-56" src="https://github.com/user-attachments/assets/d9d04ff3-da49-4f00-8e60-9dc698ab78cf" />
-
-
+<img width="161" height="251" alt="Screenshot from 2025-11-18 09-09-56" src="https://github.com/user-attachments/assets/12747955-050a-4012-94a7-9627dbd6ff55" />
 
 Maintenant on va faire des actions :
 
-<img width="442" height="212" alt="Screenshot from 2025-11-18 09-15-20" src="https://github.com/user-attachments/assets/a59d0f44-df9a-4294-afa5-6389694fce1c" />
-<img width="442" height="197" alt="Screenshot from 2025-11-18 09-16-30" src="https://github.com/user-attachments/assets/762fe4ed-cfe7-4ad6-a645-1a88b9645350" />
+<img width="442" height="197" alt="Screenshot from 2025-11-18 09-16-30" src="https://github.com/user-attachments/assets/92d2cd73-4f8b-4c28-8937-380995d9fb12" />
+
+<img width="442" height="212" alt="Screenshot from 2025-11-18 09-15-20" src="https://github.com/user-attachments/assets/bcb88dec-b0ba-4a8c-a0e3-baf07834cac1" />
+
 
 Voilà comment s'affiche les combos trouvés.
 
 # 🗒️ Explications :
 
-<img width="449" height="447" alt="Screenshot from 2025-11-18 09-20-31" src="https://github.com/user-attachments/assets/cdaf08a9-6c84-4b84-85fc-980dc9e0f5ab" />
+<img width="449" height="447" alt="Screenshot from 2025-11-18 09-20-31" src="https://github.com/user-attachments/assets/75d3d07e-5b53-4705-951e-0554c81dac0a" />
 
 On va décomposer les actions :
 
@@ -104,7 +104,7 @@ Si, au lieu de mettre : ➡️ ⬇️ ⬅️ ⬆️
 
 J'avais mis : ➡️ ⬇️ ⬅️ (⌨️ K) :
 
-<img width="442" height="267" alt="Screenshot from 2025-11-18 09-25-37" src="https://github.com/user-attachments/assets/3c6735ce-bbb3-425d-b9c7-2cbf5c8701e4" />
+<img width="442" height="267" alt="Screenshot from 2025-11-18 09-25-37" src="https://github.com/user-attachments/assets/8e49eecb-2a79-4a1b-8dfb-3bb645b48419" />
 
 J'aurai eu deux combos.
 
