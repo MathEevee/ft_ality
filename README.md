@@ -207,4 +207,4 @@ Chaque "node" équivaut à un combo avec une liste de string vide ou avec plusie
 
 6. On lance l'automate, les touches sont liées aux actions puis on descend dans les branches de l'arbre jusqu'a ne plus avoir de solution (une erreur ou plus de suite), on affiche le résultat de la combinaison de touche.
 
-7. Quand échappe ou la croix de la fenêtre est utilisée on quitte le programme et la fenêtre se ferme.
+7. Quand esc. ou la croix de la fenêtre est utilisée on quitte le programme et la fenêtre se ferme.
